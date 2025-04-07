@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
-subtitle: "This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument"
+title: "MTBAP Landing Page"
+subtitle: "This webpage houses resources for the Marine Turtle Biology and Assessment Program."
 page-layout: full
 ---
 
