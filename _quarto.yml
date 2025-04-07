@@ -16,9 +16,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "PMNM ARC Manual" 
-  site-url: "https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/" 
-  repo-url: "https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual"
+  title: "MTBAP Landing Page" 
+  site-url: "https://pifsc-protected-species-division.github.io/MTBAP-Landing-Page/" 
+  repo-url: "https://github.com/PIFSC-Protected-Species-Division/MTBAP-Landing-Page"
   repo-actions: [edit, source, issue]
   favicon: content/images/favicon.ico
 # https://iconifier.net/
@@ -29,7 +29,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "content/images/Logo_nobackground.png"
+    logo: "content/images/psd_logo_NB.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
