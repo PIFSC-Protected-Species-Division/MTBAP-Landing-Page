@@ -1,0 +1,33 @@
+---
+title: "Welcome"
+subtitle: "This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument"
+page-layout: full
+---
+
+![](content/images/2018_EastPano-light.JPG)
+
+## Top Links
+
+-   [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977) (see also training tab on left)
+-   [CIMAR Papahānaumokuākea Protected Species Field Research](https://www.soest.hawaii.edu/cimar/pps_field_research/)
+-   [NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument)
+
+## Who are we?
+
+NOAA's Pacific Islands Fisheries Science Center (PIFSC) works with the Pacific Islands Regional Office to conduct research and monitoring programs that support the domestic and international conservation and management of living marine resources across the Pacific Islands.
+
+Within PIFSC, the Protected Species Division (PSD) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements. PSD is comprised of the Marine Turtle Biology and Assessment Program (MTBAP), Hawaiian Monk Seal Research Program (HMSRP), Cetacean Research Program (CRP), and PSD Services and Support Program (PSSP).
+
+The Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.
+
+See [Acronyms](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Acronyms.html) for more.
+
+## Schedule
+
+<iframe width="900" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLiWG8-yKRB3l3V-F4a0ZVrmpunM-2TlbSa4Lhm0vQgCOI76CSgQwZZeHlc-B2k1uvw09apKIVACSf/pubhtml?widget=true&amp;headers=false">
+
+</iframe>
+
+## How to use this manual
+
+Each menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic. Field staff must request access to the "Protocols - ALL PMNM Field Camps 2025" Google Drive folder to view most links.

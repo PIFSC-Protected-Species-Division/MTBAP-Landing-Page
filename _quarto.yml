@@ -1,0 +1,180 @@
+project: 
+  type: website
+
+## Below was test to convert to book, also pdf document class below (not functional yet)
+# book:
+#   title: "Test-Book"
+#   author: "Marylou Staman"
+#   date: "12/9/2024"
+#   chapters:
+#     - index.qmd
+#     - intro.qmd
+#     - summary.qmd
+#     - references.qmd
+# 
+# bibliography: references.bib
+
+website: 
+  page-navigation: true
+  title: "PMNM ARC Manual" 
+  site-url: "https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/" 
+  repo-url: "https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual"
+  repo-actions: [edit, source, issue]
+  favicon: content/images/favicon.ico
+# https://iconifier.net/
+  
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; CC-1.0"
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "content/images/Logo_nobackground.png"
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument
+        text: "NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument"
+        target: _blank
+        #"target: _blank" makes link pop out to new window
+      - icon: github
+        href: https://github.com/PIFSC-Protected-Species-Division/PMNM-ARCamps-Manual
+        text: "Github Repository"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - section: content/Onboarding.qmd
+        contents: 
+          - href: content/OnboardingPaperwork.qmd
+            text: Onboarding Paperwork
+          - href: content/HonoluluTips.qmd
+            text: Honolulu Tips
+          - href: content/Acronyms.qmd
+            text: Acronyms
+      - section: content/Orientation.qmd
+        contents: 
+          - href: content/About_the_IRC.qmd
+            text: About the IRC
+          - href: content/OverviewofResearch.qmd
+            text: Overview of Research
+          - href: content/OverviewofCamps.qmd
+            text: Overview of Camps
+          - href: content/MeettheTeam.qmd
+            text: Meet the Team
+          - href: content/LandAcknowledgements.qmd
+            text: Land Acknowledgements
+          - href: content/IThelp.qmd
+            text: IT Help
+      - section: content/EnteringtheMonument.qmd
+        text: "Entering the Monument"
+        contents: 
+          - href: content/Biosecurity.qmd
+            text: Biosecurity and Packing
+          - href: content/PermitsBMPs.qmd
+            text: Permits & BMPs
+          - href: content/CulturalBriefing.qmd
+            text: Cultural Briefing & Resources
+          - href: content/CommunicationMedia.qmd
+            text: Internet & Media
+          - href: content/Partners.qmd
+            text: Partners
+      - section: content/Training.qmd
+        text: "Training"
+        contents: 
+          - href: content/EmploymentTraining.qmd
+            text: Employment Training
+          - href: content/WorksiteTraining.qmd
+            text: Worksite Training
+          - href: content/WFATraining.qmd
+            text: Wilderness First Aid
+          - href: content/SafetyTraining.qmd
+            text: Safety & Communication
+          - href: content/Huliia.qmd
+            text: Huli'ia
+      - section: content/GearPacking.qmd
+        contents: 
+          - href: content/GearDatabase.qmd
+            text: Gear Database
+          - href: content/CareAndRepairs.qmd
+            text: Care and Repairs
+          - href: content/EquipmentManuals.qmd
+            text: Equipment Manuals
+          - href: content/HAZMATMSDS.qmd
+            text: Material Safety Data Sheets
+          - href: content/SettingUpCamp.qmd
+            text: Setting Up Camp
+      - section: content/Ships.qmd
+        contents: 
+          - href: content/OurVessels.qmd
+            text: Our Vessels
+          - href: content/ShipPaperwork.qmd
+            text: Ship Paperwork and Protocols
+      - section: content/Boats.qmd
+        contents: 
+          - href: content/OperatorTraining.qmd
+            text: Operator Training
+          - href: content/RequiredDocs.qmd
+            text: Required Documents
+          - href: content/LogsandMaintenance.qmd
+            text: Logs and Maintenance
+      - section: content/MonkSealProtocols.qmd
+        contents: 
+          - href: content/MonkSealOverview.qmd
+            text: Overview
+          - href: content/PopulationAssessment.qmd
+            text: Population Assessment
+          - href: content/DataPhotoEntryProcessing.qmd
+            text: Data-Photo Entry Processing
+          - href: content/Interventions.qmd
+            text: Interventions
+          - href: content/Necropsy.qmd
+            text: Necropsy
+          - href: content/Specimens.qmd
+            text: Specimens
+          - href: content/SpecialStudiesSpecies.qmd
+            text: Special Studies/Species
+      - href: content/MarineTurtleProtocols.qmd
+        text: Marine Turtle Protocols     
+      - section: content/PostSeasonProtocols.qmd
+        contents: 
+          - href: content/CleanUpInHonolulu.qmd
+            text: Clean-up in Honolulu
+          - href: content/MonkSealPostSeason.qmd
+            text: Monk Seal Post-Season
+          - href: content/Debriefs.qmd
+            text: Debriefs
+      - section: content/OtherResources.qmd
+        contents: 
+          - href: content/PastMedia.qmd
+            text: Past Media
+          - href: content/LibraryCorner.qmd
+            text: Library Corner
+          - href: content/AboutThisWebsite.qmd
+            text: About This Website
+          - href: content/Tshirts.qmd
+            text: T-shirts
+
+        
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] 
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+  # pdf:
+  #   documentclass: scrreprt
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  
