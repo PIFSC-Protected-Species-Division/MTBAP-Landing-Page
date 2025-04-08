@@ -10,8 +10,8 @@ page-layout: full
 
 
 ## Who are we?
+The Marine Turtle Biology and Assessment Program, housed within NOAA's Pacific Islands Fisheries Science Center, aims to better understand, assess, and monitor sea turtle populations in the Pacific to support management needs and species recovery goals, as mandated through the Endangered Species Act and other federal statutes.
+
+[NOAA Sea Turtle Research in the Pacific Page](https://www.fisheries.noaa.gov/pacific-islands/science-data/sea-turtle-research-pacific){.external target="_blank"}
 
 
-## How to use this manual
-
-Each menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic. Field staff must request access to the "Protocols - ALL PMNM Field Camps 2025" Google Drive folder to view most links.
