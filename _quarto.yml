@@ -49,117 +49,16 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - section: content/Onboarding.qmd
+      - href: content/turtlepermits.qmd
+        text: Permits
+      - href: content/turtleprojects.qmd
+        text: Projects
+      - section: content/Publications.qmd
         contents: 
-          - href: content/OnboardingPaperwork.qmd
-            text: Onboarding Paperwork
-          - href: content/HonoluluTips.qmd
-            text: Honolulu Tips
-          - href: content/Acronyms.qmd
-            text: Acronyms
-      - section: content/Orientation.qmd
-        contents: 
-          - href: content/About_the_IRC.qmd
-            text: About the IRC
-          - href: content/OverviewofResearch.qmd
-            text: Overview of Research
-          - href: content/OverviewofCamps.qmd
-            text: Overview of Camps
-          - href: content/MeettheTeam.qmd
-            text: Meet the Team
-          - href: content/LandAcknowledgements.qmd
-            text: Land Acknowledgements
-          - href: content/IThelp.qmd
-            text: IT Help
-      - section: content/EnteringtheMonument.qmd
-        text: "Entering the Monument"
-        contents: 
-          - href: content/Biosecurity.qmd
-            text: Biosecurity and Packing
-          - href: content/PermitsBMPs.qmd
-            text: Permits & BMPs
-          - href: content/CulturalBriefing.qmd
-            text: Cultural Briefing & Resources
-          - href: content/CommunicationMedia.qmd
-            text: Internet & Media
-          - href: content/Partners.qmd
-            text: Partners
-      - section: content/Training.qmd
-        text: "Training"
-        contents: 
-          - href: content/EmploymentTraining.qmd
-            text: Employment Training
-          - href: content/WorksiteTraining.qmd
-            text: Worksite Training
-          - href: content/WFATraining.qmd
-            text: Wilderness First Aid
-          - href: content/SafetyTraining.qmd
-            text: Safety & Communication
-          - href: content/Huliia.qmd
-            text: Huli'ia
-      - section: content/GearPacking.qmd
-        contents: 
-          - href: content/GearDatabase.qmd
-            text: Gear Database
-          - href: content/CareAndRepairs.qmd
-            text: Care and Repairs
-          - href: content/EquipmentManuals.qmd
-            text: Equipment Manuals
-          - href: content/HAZMATMSDS.qmd
-            text: Material Safety Data Sheets
-          - href: content/SettingUpCamp.qmd
-            text: Setting Up Camp
-      - section: content/Ships.qmd
-        contents: 
-          - href: content/OurVessels.qmd
-            text: Our Vessels
-          - href: content/ShipPaperwork.qmd
-            text: Ship Paperwork and Protocols
-      - section: content/Boats.qmd
-        contents: 
-          - href: content/OperatorTraining.qmd
-            text: Operator Training
-          - href: content/RequiredDocs.qmd
-            text: Required Documents
-          - href: content/LogsandMaintenance.qmd
-            text: Logs and Maintenance
-      - section: content/MonkSealProtocols.qmd
-        contents: 
-          - href: content/MonkSealOverview.qmd
-            text: Overview
-          - href: content/PopulationAssessment.qmd
-            text: Population Assessment
-          - href: content/DataPhotoEntryProcessing.qmd
-            text: Data-Photo Entry Processing
-          - href: content/Interventions.qmd
-            text: Interventions
-          - href: content/Necropsy.qmd
-            text: Necropsy
-          - href: content/Specimens.qmd
-            text: Specimens
-          - href: content/SpecialStudiesSpecies.qmd
-            text: Special Studies/Species
-      - href: content/MarineTurtleProtocols.qmd
-        text: Marine Turtle Protocols     
-      - section: content/PostSeasonProtocols.qmd
-        contents: 
-          - href: content/CleanUpInHonolulu.qmd
-            text: Clean-up in Honolulu
-          - href: content/MonkSealPostSeason.qmd
-            text: Monk Seal Post-Season
-          - href: content/Debriefs.qmd
-            text: Debriefs
-      - section: content/OtherResources.qmd
-        contents: 
-          - href: content/PastMedia.qmd
+          - href: content/turtlemedia.qmd
             text: Past Media
-          - href: content/LibraryCorner.qmd
+          - href: content/TurtleLibraryCorner.qmd
             text: Library Corner
-          - href: content/AboutThisWebsite.qmd
-            text: About This Website
-          - href: content/Tshirts.qmd
-            text: T-shirts
-
         
 format:
   html:

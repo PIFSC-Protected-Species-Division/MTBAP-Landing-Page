@@ -1,5 +1,0 @@
----
-title: Gear Database
----
-
--   [Gear Database Protocol](https://docs.google.com/document/d/1czay4D-zfimkhoebGQq8_pHb4u8Fm90TguVnbY2kYRs/edit?usp=sharing){.external target="_blank"}
