@@ -3,3 +3,10 @@ title: "Permits"
 format: html
 ---
 
+## Turtle Research Permits
+-   [NMFS In-Water Permit 21260](https://drive.google.com/drive/folders/18-yRzObQei76xE1zPHUG-ENWtHSak5sY?usp=drive_link){.external target="_blank"}
+-   [USFWS Permit TE-72088A-3](https://drive.google.com/drive/folders/1A-bTwYba0U2PjLywLYrGJufWXxt7encH?usp=drive_link){.external target="_blank"}
+-   [DAR SAP 2026-01 (not finalized)](https://drive.google.com/file/d/1f37Rt3rzY5BvUUZZl9FS1DXP4DHgjrfE/view?usp=drive_link){.external target="_blank"}
+
+## Monument Permits
+-   [PMNM 2025 Manager's Permit](https://drive.google.com/file/d/102-eJExz8kux1uAbWQeRGvmkDLYdociK/view?usp=sharing){.external target="_blank"}
