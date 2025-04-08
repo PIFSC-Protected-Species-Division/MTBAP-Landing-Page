@@ -146,7 +146,17 @@
     "href": "index.html#who-are-we",
     "title": "MTBAP Landing Page",
     "section": "Who are we?",
-    "text": "Who are we?\nThe Marine Turtle Biology and Assessment Program, housed within NOAA’s Pacific Islands Fisheries Science Center, aims to better understand, assess, and monitor sea turtle populations in the Pacific to support management needs and species recovery goals, as mandated through the Endangered Species Act and other federal statutes.\nNOAA Sea Turtle Research in the Pacific Page",
+    "text": "Who are we?",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-manual",
+    "href": "index.html#how-to-use-this-manual",
+    "title": "MTBAP Landing Page",
+    "section": "How to use this manual",
+    "text": "How to use this manual\nEach menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic. Field staff must request access to the “Protocols - ALL PMNM Field Camps 2025” Google Drive folder to view most links.",
     "crumbs": [
       "Welcome"
     ]
