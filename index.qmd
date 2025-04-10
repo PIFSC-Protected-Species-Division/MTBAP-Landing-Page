@@ -4,7 +4,7 @@ subtitle: "This webpage houses resources for the Marine Turtle Biology and Asses
 page-layout: full
 ---
 
-![](content/images/2018_EastPano-light.JPG)
+![](content/images/turtle_homepic.jpg)
 
 ## Top Links
 
@@ -12,6 +12,6 @@ page-layout: full
 ## Who are we?
 The Marine Turtle Biology and Assessment Program, housed within NOAA's Pacific Islands Fisheries Science Center, aims to better understand, assess, and monitor sea turtle populations in the Pacific to support management needs and species recovery goals, as mandated through the Endangered Species Act and other federal statutes.
 
-[NOAA Sea Turtle Research in the Pacific Page](https://www.fisheries.noaa.gov/pacific-islands/science-data/sea-turtle-research-pacific){.external target="_blank"}
+[NOAA Sea Turtle Research in the Pacific](https://www.fisheries.noaa.gov/pacific-islands/science-data/sea-turtle-research-pacific){.external target="_blank"}
 
 
