@@ -51,8 +51,9 @@ website:
         text: Welcome
       - href: content/turtlepermits.qmd
         text: Permits
-      - href: content/turtleprojects.qmd
-        text: Projects
+      - section: content/turtleprojects.qmd
+        contents:
+          - href: content/HonuCount.qmd
       - section: content/Publications.qmd
         contents: 
           - href: content/turtlemedia.qmd
