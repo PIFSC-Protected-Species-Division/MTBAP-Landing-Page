@@ -3,6 +3,8 @@ title: "Library Corner"
 format: html
 ---
 
+[NOAA Institutional Repository](https://repository.library.noaa.gov/){.external target="_blank"}
+
 -   2025- [Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings](https://www.sciencedirect.com/science/article/pii/S0025326X25003443){.external target="_blank"}
 -   2024  [Abundance, production, and migrations of nesting green turtles at Rose Atoll, American Samoa, a regionally important rookery in the Central South Pacific Ocean](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1403240/full){.external target="_blank"}
 -   2024- [Sex ratios of olive ridley sea turtles in the North Pacific high seas: implications for climate change research](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.int-res.com/articles/meps_oa/m748p149.pdf){.external target="_blank"}

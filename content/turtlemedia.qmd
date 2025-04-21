@@ -2,7 +2,6 @@
 title: "Past Media"
 format: html
 ---
-
 ##  NOAA Stories
 -   2024.06.17[Sea Turtle Week 2024](https://www.fisheries.noaa.gov/feature-story/swim-sea-turtle-week){.external target="_blank"}
 -   2024.02.14- [Sea Turtle Research in the Pacific](https://www.fisheries.noaa.gov/pacific-islands/science-data/sea-turtle-research-pacific){.external target="_blank"}
@@ -12,10 +11,15 @@ format: html
 -   2021.06.16- [Sea Turtle Week 2021](https://www.fisheries.noaa.gov/content/sea-turtle-week-2021-celebrating-sea-turtle-conservation#:~:text=We%20kick%20off%20Sea%20Turtle,%2C%20hunting%2C%20and%20habitat%20degradation.){.external target="_blank"}
 -   2020.07.20- [Hawksbill Sea Turtles Are Truly Hawai'i Locals](https://www.fisheries.noaa.gov/feature-story/hawksbill-sea-turtles-are-truly-hawaii-locals){.external target="_blank"}
 -   2020.06.10- [Sea Turtle Week 2020](https://www.fisheries.noaa.gov/leadership-message/celebrating-sea-turtle-week-2020#:~:text=A%20message%20from%20Donna%20Wieting,June%2015-19%2C%202020.&text=Welcome%20to%20Sea%20Turtle%20Week,to%20protect%20and%20conserve%20them.){.external target="_blank"}
+-   2020.05.08- [Punahele: A Green Sea Turtle's Journey to "Destination Unknown"](https://www.fisheries.noaa.gov/science-blog/punahele-green-sea-turtles-journey-destination-unknown){.external target="_blank"}
 -   2020.04.10- [Saving an Endangered Turtle Population: One Program's Quest](https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest){.external target="_blank"}
 -   2019.06.10- [Sea Turtle Week 2019](https://www.fisheries.noaa.gov/feature-story/saving-sea-turtles-science-sea-turtle-week#:~:text=World%20Sea%20Turtle%20Day%20is,streamlined%20bodies%20and%20large%20flippers.){.external target="_blank"}
+-   2019.05.17- [Motherload: The Story of a Fertile Turtle in the Hawaiian Islands](https://www.fisheries.noaa.gov/feature-story/motherload-story-fertile-turtle-hawaiian-islands){.external target="_blank"}
+-   2018.06.18- [Sea Turtles: Is the Future Female?](https://www.fisheries.noaa.gov/video/sea-turtles-future-female){.external target="_blank"}
 -   2018.06.11- [Sea Turtle Week 2018](https://www.fisheries.noaa.gov/feature-story/celebrating-sea-turtle-week-2018#:~:text=World%20Sea%20Turtle%20Day%20is,and%20Turtle%20Division%20(MMTD).){.external target="_blank"}
 -   2017.09.26- [By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi](https://www.fisheries.noaa.gov/feature-story/numbers-annual-migration-green-sea-turtles-hawaii){.external target="_blank"}
+-   [Get to Know Your Pacific Islands Endangered Species](https://videos.fisheries.noaa.gov/detail/videos/sea-turtles/video/6289823290001/get-to-know-your-pacific-islands-endangered-species:-hawksbill-sea-turtles?autoStart=true){.external target="_blank"}
+-   [Fishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle](https://videos.fisheries.noaa.gov/detail/videos/sea-turtles/video/6308469963112/fishing-around-sea-turtles:-what-to-do-if-you-accidentally-catch-a-turtle?autoStart=true){.external target="_blank"}
 
 ## Other Media:
 -   2024.12.12- [If you see a honu with a number, this is what you need to do](https://www.khon2.com/local-news/if-you-see-a-honu-with-a-number-this-is-what-you-need-to-do/){.external target="_blank"}
