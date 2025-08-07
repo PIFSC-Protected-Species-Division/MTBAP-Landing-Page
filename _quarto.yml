@@ -49,8 +49,6 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - href: content/turtlepermits.qmd
-        text: Permits
       - section: content/turtleprojects.qmd
         contents:
           - href: content/HonuCount.qmd
