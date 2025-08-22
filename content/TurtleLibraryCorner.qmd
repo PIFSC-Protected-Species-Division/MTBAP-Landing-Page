@@ -47,7 +47,7 @@ format: html
 
 -   [Rookery contributions, movements and conservation needs of hawksbill turtles at foraging grounds in the eastern Pacific Ocean](https://www.int-res.com/abstracts/meps/v586/meps12391)
 
--   2017- <https://bioone.org/journals/pacific-science/volume-71/issue-3/71.3.3/Demography-of-Marine-Turtles-in-the-Nearshore-Environments-of-the/10.2984/71.3.3.full>
+-   2017- [Demography of Marine Turtles in the Nearshore Environments of the Northern Mariana Islands](https://bioone.org/journals/pacific-science/volume-71/issue-3/71.3.3/Demography-of-Marine-Turtles-in-the-Nearshore-Environments-of-the/10.2984/71.3.3.full)
 
 -   [Natal foraging philopatry in eastern Pacific hawksbill turtles](https://royalsocietypublishing.org/doi/10.1098/rsos.170153)
 
