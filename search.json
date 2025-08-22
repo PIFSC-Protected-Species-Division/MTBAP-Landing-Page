@@ -20,29 +20,11 @@
     ]
   },
   {
-    "objectID": "content/HonuCount.html",
-    "href": "content/HonuCount.html",
-    "title": "Honu Count",
+    "objectID": "content/Software.html",
+    "href": "content/Software.html",
+    "title": "Software",
     "section": "",
-    "text": "Since the inception of the Honu Count in 2017, nearly 600 citizens reported 688 sightings of 253 individual turtles. This valuable scientific information is used to track recently rehabilitated turtles, resident turtle habitat use, or when nesting turtles from Lalo return back to their foraging grounds. We also use the data collected from Honu Count to determine the resilience of the Hawaiian green sea turtle in the face of climate change.\nHonu Count Data Entry Link\nHonu Count Overview",
-    "crumbs": [
-      "Projects",
-      "Honu Count"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
+    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example"
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/Intro.html",
@@ -73,6 +55,20 @@
     "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
   },
   {
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
+  },
+  {
     "objectID": "content/NMFS_OpenSciDirections/code.html",
     "href": "content/NMFS_OpenSciDirections/code.html",
     "title": "Rendering with Code",
@@ -92,6 +88,174 @@
     "title": "Rendering with Code",
     "section": "Render locally and publish to gh-pages branch",
     "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "content/turtlemedia.html",
+    "href": "content/turtlemedia.html",
+    "title": "Past Media",
+    "section": "",
+    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle",
+    "crumbs": [
+      "Publications",
+      "Past Media"
+    ]
+  },
+  {
+    "objectID": "content/turtlemedia.html#noaa-stories",
+    "href": "content/turtlemedia.html#noaa-stories",
+    "title": "Past Media",
+    "section": "",
+    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle",
+    "crumbs": [
+      "Publications",
+      "Past Media"
+    ]
+  },
+  {
+    "objectID": "content/turtlemedia.html#other-media",
+    "href": "content/turtlemedia.html#other-media",
+    "title": "Past Media",
+    "section": "Other Media:",
+    "text": "Other Media:\n\n2024.12.12- If you see a honu with a number, this is what you need to do\n2023.02.02- Have you seen a honu recently? NOAA needs your help counting marked sea turtles\n2022.09.26- Green Sea Turtle: Endangered Animals Spotlight\n2022.09.24- Honu release, year of the limu celebration at Sea Life Park\n2022.05- Hope for Honu: Green Sea Turtles on the Road to Recovery\n2021- Turtle Independence Day\n2020.01.30- Board Talk: Turtle Nesting, Post-Walaka\nImpacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023",
+    "crumbs": [
+      "Publications",
+      "Past Media"
+    ]
+  },
+  {
+    "objectID": "content/TurtleLibraryCorner.html",
+    "href": "content/TurtleLibraryCorner.html",
+    "title": "Library Corner",
+    "section": "",
+    "text": "NOAA Institutional Repository\n\n2025- Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings\nExpanding the boundaries: regional connectivity in green turtle (Chelonia mydas) populations across Micronesia\n2024 Abundance, production, and migrations of nesting green turtles at Rose Atoll, American Samoa, a regionally important rookery in the Central South Pacific Ocean\nSex ratios of olive ridley sea turtles in the North Pacific high seas: implications for climate change research\n[Data Report] 2013-2023 Final Report: Sea Turtle Surveys and Tracking in the Mariana Islands and Testing (MITT) study area\n2023- Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation\nEvaluation of a long-term information tool reveals continued suitability for identifying bycatch hotspots but little effect on fisher location choice\nOrigins of green turtle fishery bycatch in the central Pacific revealed by mixed genetic markers\nNon-random mating within an Island rookery of Hawaiian hawksbill turtles: demographic discontinuity at a small coastline scale\nSequential scute growth layers reveal developmental histories of hawksbill sea turtles\n2021- Hawksbill Nesting in Hawai’i: 30-Year Dataset Reveals Recent Positive Trend for a Small, Yet Vital Population\nSpecies and population specific gene expression in blood transcriptomes of marine turtles\nInteractions Among Hawaiian Hawksbills Suggest Prevalence of Social Behaviors in Marine Turtles\n2020- Hawaiian hawksbills: a distinct and isolated nesting colony in the Central North Pacific Ocean revealed by mitochondrial DNA\nSea turtle tagging in the Mariana Islands Training and Testing (MITT) study area\n2019- Potential limitations of behavioral plasticity and the role of egg relocation in climate change mitigation for a thermally sensitive endangered species\n2018- Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World\nEndangered Green Turtles (Chelonia mydas) of the Northern Mariana Islands: Nesting Ecology, Poaching, and Climate Concerns\nThe Utility of Combining Stable Isotope and Hormone Analyses for Marine Megafauna Research\nPrevalence of polygyny in a critically endangered marine turtle population\nRookery contributions, movements and conservation needs of hawksbill turtles at foraging grounds in the eastern Pacific Ocean\n2017- https://bioone.org/journals/pacific-science/volume-71/issue-3/71.3.3/Demography-of-Marine-Turtles-in-the-Nearshore-Environments-of-the/10.2984/71.3.3.full\nNatal foraging philopatry in eastern Pacific hawksbill turtles\nLiving on the Edge: Hawksbill turtle nesting and conservation along the Eastern Pacific Rim\n2016- Five Decades of Marine Megafauna Surveys from Micronesia\nAn Ecosystem Services Perspective for the Oceanic Eastern Tropical Pacific: Commercial Fisheries, Carbon Storage, Recreational Fishing, and Biodiversity\nThe Developmental biogeography of hawksbill sea turtles in the North Pacific\n2012- Age and growth rates of Hawaiian hawksbill turtles (Eretmochelys imbricata) using skeletochronology",
+    "crumbs": [
+      "Publications",
+      "Library Corner"
+    ]
+  },
+  {
+    "objectID": "content/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
+  },
+  {
+    "objectID": "content/turtleprojects.html",
+    "href": "content/turtleprojects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Honu Count",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/turtleprojects.html#sub-pages",
+    "href": "content/turtleprojects.html#sub-pages",
+    "title": "Projects",
+    "section": "",
+    "text": "Honu Count",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/turtlepermits.html",
+    "href": "content/turtlepermits.html",
+    "title": "Permits",
+    "section": "",
+    "text": "NMFS In-Water Permit 21260\nUSFWS Permit TE-72088A-3\nDAR SAP 2026-01 (not finalized)"
+  },
+  {
+    "objectID": "content/turtlepermits.html#turtle-research-permits",
+    "href": "content/turtlepermits.html#turtle-research-permits",
+    "title": "Permits",
+    "section": "",
+    "text": "NMFS In-Water Permit 21260\nUSFWS Permit TE-72088A-3\nDAR SAP 2026-01 (not finalized)"
+  },
+  {
+    "objectID": "content/turtlepermits.html#monument-permits",
+    "href": "content/turtlepermits.html#monument-permits",
+    "title": "Permits",
+    "section": "Monument Permits",
+    "text": "Monument Permits\n\nPMNM 2025 Manager’s Permit"
+  },
+  {
+    "objectID": "content/Publications.html",
+    "href": "content/Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Past Media\nLibrary Corner",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "content/Publications.html#sub-pages",
+    "href": "content/Publications.html#sub-pages",
+    "title": "Publications",
+    "section": "",
+    "text": "Past Media\nLibrary Corner",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
+    "href": "content/NMFS_OpenSciDirections/publishing.html",
+    "title": "Publishing",
+    "section": "",
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "title": "R Markdown",
+    "section": "",
+    "text": "You can include R Markdown files in your project."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "title": "R Markdown",
+    "section": "R Markdown",
+    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "title": "R Markdown",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/add-content.html",
@@ -150,140 +314,6 @@
     "text": "Resources\n\nYaml Checker\nQuarto Yaml Options (HTML)\nQuarto Book Structure"
   },
   {
-    "objectID": "content/Publications.html",
-    "href": "content/Publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Past Media\nLibrary Corner",
-    "crumbs": [
-      "Publications"
-    ]
-  },
-  {
-    "objectID": "content/Publications.html#sub-pages",
-    "href": "content/Publications.html#sub-pages",
-    "title": "Publications",
-    "section": "",
-    "text": "Past Media\nLibrary Corner",
-    "crumbs": [
-      "Publications"
-    ]
-  },
-  {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
-    "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
-  },
-  {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software",
-    "section": "",
-    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example"
-  },
-  {
-    "objectID": "content/turtlemedia.html",
-    "href": "content/turtlemedia.html",
-    "title": "Past Media",
-    "section": "",
-    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle",
-    "crumbs": [
-      "Publications",
-      "Past Media"
-    ]
-  },
-  {
-    "objectID": "content/turtlemedia.html#noaa-stories",
-    "href": "content/turtlemedia.html#noaa-stories",
-    "title": "Past Media",
-    "section": "",
-    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle",
-    "crumbs": [
-      "Publications",
-      "Past Media"
-    ]
-  },
-  {
-    "objectID": "content/turtlemedia.html#other-media",
-    "href": "content/turtlemedia.html#other-media",
-    "title": "Past Media",
-    "section": "Other Media:",
-    "text": "Other Media:\n\n2024.12.12- If you see a honu with a number, this is what you need to do\n2023.02.02- Have you seen a honu recently? NOAA needs your help counting marked sea turtles\n2022.09.26- Green Sea Turtle: Endangered Animals Spotlight\n2022.09.24- Honu release, year of the limu celebration at Sea Life Park\n2022.05- Hope for Honu: Green Sea Turtles on the Road to Recovery\n2021- Turtle Independence Day\n2020.01.30- Board Talk: Turtle Nesting, Post-Walaka\nImpacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023",
-    "crumbs": [
-      "Publications",
-      "Past Media"
-    ]
-  },
-  {
-    "objectID": "content/TurtleLibraryCorner.html",
-    "href": "content/TurtleLibraryCorner.html",
-    "title": "Library Corner",
-    "section": "",
-    "text": "NOAA Institutional Repository\n\n2025- Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings\n2024 Abundance, production, and migrations of nesting green turtles at Rose Atoll, American Samoa, a regionally important rookery in the Central South Pacific Ocean\n2024- Sex ratios of olive ridley sea turtles in the North Pacific high seas: implications for climate change research\n2023- Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation\n2020- Hawaiian hawksbills: a distinct and isolated nesting colony in the Central North Pacific Ocean revealed by mitochondrial DNA\n2020- Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area\n2019- Densities and drivers of sea turtle populations across Pacific coral reef ecosystems\n2018- Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World",
-    "crumbs": [
-      "Publications",
-      "Library Corner"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "title": "Acknowledgments",
-    "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
-    "href": "content/NMFS_OpenSciDirections/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "title": "R Markdown",
-    "section": "",
-    "text": "You can include R Markdown files in your project."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "title": "R Markdown",
-    "section": "R Markdown",
-    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "title": "R Markdown",
-    "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
-  },
-  {
     "objectID": "content/NMFS_OpenSciDirections/rendering.html",
     "href": "content/NMFS_OpenSciDirections/rendering.html",
     "title": "Rendering",
@@ -312,44 +342,14 @@
     "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
   },
   {
-    "objectID": "content/turtleprojects.html",
-    "href": "content/turtleprojects.html",
-    "title": "Projects",
+    "objectID": "content/HonuCount.html",
+    "href": "content/HonuCount.html",
+    "title": "Honu Count",
     "section": "",
-    "text": "Honu Count",
+    "text": "Since the inception of the Honu Count in 2017, nearly 600 citizens reported 688 sightings of 253 individual turtles. This valuable scientific information is used to track recently rehabilitated turtles, resident turtle habitat use, or when nesting turtles from Lalo return back to their foraging grounds. We also use the data collected from Honu Count to determine the resilience of the Hawaiian green sea turtle in the face of climate change.\nHonu Count Data Entry Link\nHonu Count Overview",
     "crumbs": [
-      "Projects"
+      "Projects",
+      "Honu Count"
     ]
-  },
-  {
-    "objectID": "content/turtleprojects.html#sub-pages",
-    "href": "content/turtleprojects.html#sub-pages",
-    "title": "Projects",
-    "section": "",
-    "text": "Honu Count",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "content/turtlepermits.html",
-    "href": "content/turtlepermits.html",
-    "title": "Permits",
-    "section": "",
-    "text": "NMFS In-Water Permit 21260\nUSFWS Permit TE-72088A-3\nDAR SAP 2026-01 (not finalized)"
-  },
-  {
-    "objectID": "content/turtlepermits.html#turtle-research-permits",
-    "href": "content/turtlepermits.html#turtle-research-permits",
-    "title": "Permits",
-    "section": "",
-    "text": "NMFS In-Water Permit 21260\nUSFWS Permit TE-72088A-3\nDAR SAP 2026-01 (not finalized)"
-  },
-  {
-    "objectID": "content/turtlepermits.html#monument-permits",
-    "href": "content/turtlepermits.html#monument-permits",
-    "title": "Permits",
-    "section": "Monument Permits",
-    "text": "Monument Permits\n\nPMNM 2025 Manager’s Permit"
   }
 ]
