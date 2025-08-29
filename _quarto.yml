@@ -14,7 +14,7 @@ project:
 # 
 # bibliography: references.bib
 
-website: 
+website:
   page-navigation: true
   title: "MTBAP Landing Page"
   site-url: "https://pifsc-protected-species-division.github.io/MTBAP-Landing-Page/"
@@ -44,8 +44,16 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - href: index.qmd
-        text: About Us
+      - section: "About Us"
+        contents:
+          - href: index.qmd
+            text: Overview
+          - href: content/TeamMembers.qmd
+            text: Team Members
+          - href: content/Mission.qmd
+            text: Mission
+          - href: content/History.qmd
+            text: History
 
       - section: "Projects"
         contents:
@@ -78,7 +86,7 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss] 
+      light: [cosmo, theme.scss]
       dark: [cosmo, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
