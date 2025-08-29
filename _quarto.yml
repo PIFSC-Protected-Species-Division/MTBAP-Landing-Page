@@ -26,7 +26,7 @@ website:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
 
- sidebar:
+sidebar:
   background: "#D9E3E4"
   logo: "content/images/psd_logo_NB.png"
   pinned: true
