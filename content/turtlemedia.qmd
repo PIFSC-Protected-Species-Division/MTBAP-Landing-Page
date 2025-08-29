@@ -2,7 +2,9 @@
 title: "Past Media"
 format: html
 ---
-##  NOAA Stories
+
+## NOAA Stories
+
 -   2024.06.17[Sea Turtle Week 2024](https://www.fisheries.noaa.gov/feature-story/swim-sea-turtle-week){.external target="_blank"}
 -   2024.02.14- [Sea Turtle Research in the Pacific](https://www.fisheries.noaa.gov/pacific-islands/science-data/sea-turtle-research-pacific){.external target="_blank"}
 -   2022.06.12- [Sea Turtle Week 2022](https://www.fisheries.noaa.gov/feature-story/sea-turtle-week-2022#:~:text=NOAA%20works%20to%20protect%20and,our%20work%20to%20conserve%20them.){.external target="_blank"}
@@ -22,12 +24,21 @@ format: html
 -   [Fishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle](https://videos.fisheries.noaa.gov/detail/videos/sea-turtles/video/6308469963112/fishing-around-sea-turtles:-what-to-do-if-you-accidentally-catch-a-turtle?autoStart=true){.external target="_blank"}
 
 ## Other Media:
--   2024.12.12- [If you see a honu with a number, this is what you need to do](https://www.khon2.com/local-news/if-you-see-a-honu-with-a-number-this-is-what-you-need-to-do/){.external target="_blank"}
--   2023.02.02- [Have you seen a honu recently? NOAA needs your help counting marked sea turtles](https://www.hawaiinewsnow.com/2023/02/03/have-you-seen-honu-recently-noaa-needs-your-help-counting-marked-sea-turtles/){.external target="_blank"}
--   2022.09.26- [Green Sea Turtle: Endangered Animals Spotlight](https://earth.org/?endangered-species=green-sea-turtle){.external target="_blank"}
--   2022.09.24- [Honu release, year of the limu celebration at Sea Life Park](https://www.khon2.com/local-news/honu-release-year-of-the-limu-celebration-at-sea-life-park/){.external target="_blank"}
--   2022.05- [Hope for Honu: Green Sea Turtles on the Road to Recovery](https://keolamagazine.com/malama-mokupuni/hope-for-honu/){.external target="_blank"}
--   2021- [Turtle Independence Day](https://www.youtube.com/watch?v=bqWs51ce4SE){.external target="_blank"}
--   2020.01.30- [Board Talk: Turtle Nesting, Post-Walaka](https://www.environment-hawaii.org/?p=12183){.external target="_blank"}
--   [Impacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023](https://portal.atn.ioos.us/?ls=ae6060a8-dc1a-8fed-5ea0-05daf55b2b23#metadata/f1eb8535-1450-40f9-b162-3a242f1e045e/project){.external target="_blank"}
 
+-   2025.07.07- [44th International Sea Turtle Symposium](https://www.youtube.com/watch?v=ZjdhxjF8Sx4)
+
+-   2024.12.12- [If you see a honu with a number, this is what you need to do](https://www.khon2.com/local-news/if-you-see-a-honu-with-a-number-this-is-what-you-need-to-do/){.external target="_blank"}
+
+-   2023.02.02- [Have you seen a honu recently? NOAA needs your help counting marked sea turtles](https://www.hawaiinewsnow.com/2023/02/03/have-you-seen-honu-recently-noaa-needs-your-help-counting-marked-sea-turtles/){.external target="_blank"}
+
+-   2022.09.26- [Green Sea Turtle: Endangered Animals Spotlight](https://earth.org/?endangered-species=green-sea-turtle){.external target="_blank"}
+
+-   2022.09.24- [Honu release, year of the limu celebration at Sea Life Park](https://www.khon2.com/local-news/honu-release-year-of-the-limu-celebration-at-sea-life-park/){.external target="_blank"}
+
+-   2022.05- [Hope for Honu: Green Sea Turtles on the Road to Recovery](https://keolamagazine.com/malama-mokupuni/hope-for-honu/){.external target="_blank"}
+
+-   2021- [Turtle Independence Day](https://www.youtube.com/watch?v=bqWs51ce4SE){.external target="_blank"}
+
+-   2020.01.30- [Board Talk: Turtle Nesting, Post-Walaka](https://www.environment-hawaii.org/?p=12183){.external target="_blank"}
+
+-   [Impacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023](https://portal.atn.ioos.us/?ls=ae6060a8-dc1a-8fed-5ea0-05daf55b2b23#metadata/f1eb8535-1450-40f9-b162-3a242f1e045e/project){.external target="_blank"}

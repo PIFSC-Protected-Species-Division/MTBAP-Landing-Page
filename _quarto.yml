@@ -21,24 +21,21 @@ website:
   repo-url: "https://github.com/PIFSC-Protected-Species-Division/MTBAP-Landing-Page"
   repo-actions: [edit, source, issue]
   favicon: content/images/favicon.ico
-# https://iconifier.net/
-  
+
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
-  
+
   sidebar:
     background: "#D9E3E4"
     logo: "content/images/psd_logo_NB.png"
-    favicon: images/favicon.ico
     pinned: true
     align: center
-    tools: 
+    tools:
       - icon: globe
         href: https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument
-        text: "NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument"
+        text: "NOAA Population Assessment Field Camps"
         target: _blank
-        #"target: _blank" makes link pop out to new window
       - icon: github
         href: https://github.com/PIFSC-Protected-Species-Division/PMNM-ARCamps-Manual
         text: "Github Repository"
@@ -48,17 +45,36 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Welcome
-      - section: content/turtleprojects.qmd
+        text: About Us
+
+      - section: "Projects"
         contents:
+          - href: content/turtleprojects.qmd
+            text: Overview
+          - href: content/Skeletochronology.qmd
+            text: Skeletochronology
+          - href: content/FieldWork.qmd
+            text: Field Work
+          - href: content/Filler1.qmd
+            text: Filler
+          - href: content/Filler2.qmd
+            text: Filler
           - href: content/HonuCount.qmd
-      - section: content/Publications.qmd
-        contents: 
-          - href: content/turtlemedia.qmd
-            text: Past Media
-          - href: content/TurtleLibraryCorner.qmd
-            text: Library Corner
-        
+            text: Honu Count
+
+      - section: "Publications"
+        contents:
+          - href: content/Publications.qmd
+            text: Overview
+          - href: content/PeerReviewed.qmd
+            text: Peer-Reviewed Articles
+          - href: content/Reports.qmd
+            text: Technical Reports
+          - href: content/Presentations.qmd
+            text: Presentations
+          - href: content/OutreachMedia.qmd
+            text: Outreach & Media
+
 format:
   html:
     theme:
@@ -67,12 +83,7 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-  # pdf:
-  #   documentclass: scrreprt
-
 
 filters:
   - include-files.lua
   - quarto
-
-  
