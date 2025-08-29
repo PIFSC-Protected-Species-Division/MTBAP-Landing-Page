@@ -54,7 +54,7 @@ website:
           - href: content/Skeletochronology.qmd
             text: Skeletochronology
           - href: content/FieldWork.qmd
-            text: Field Work
+            text: FieldWork
           - href: content/Filler1.qmd
             text: Filler
           - href: content/Filler2.qmd
