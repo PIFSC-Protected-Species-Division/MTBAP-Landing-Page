@@ -157,6 +157,17 @@
     ]
   },
   {
+    "objectID": "content/Resources.html",
+    "href": "content/Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Filler",
+    "crumbs": [
+      "Resources",
+      "Overview"
+    ]
+  },
+  {
     "objectID": "content/turtlemedia.html",
     "href": "content/turtlemedia.html",
     "title": "Past Media",
@@ -280,6 +291,17 @@
     "crumbs": [
       "Projects",
       "Filler"
+    ]
+  },
+  {
+    "objectID": "content/Forms.html",
+    "href": "content/Forms.html",
+    "title": "Forms",
+    "section": "",
+    "text": "Filler",
+    "crumbs": [
+      "Resources",
+      "Forms"
     ]
   },
   {
