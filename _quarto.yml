@@ -78,10 +78,15 @@ website:
             text: Peer-Reviewed Articles
           - href: content/Reports.qmd
             text: Technical Reports
-          - href: content/Presentations.qmd
-            text: Presentations
           - href: content/OutreachMedia.qmd
             text: Outreach & Media
+
+      - section: "Resources"
+        contents:
+          - href: content/Onboarding.qmd
+            text: Onboarding
+          - href: content/SOPs.qmd
+            text: Standard Operating Procedures
 
 format:
   html:
