@@ -83,10 +83,14 @@ website:
 
       - section: "Resources"
         contents:
+          - href: content/Resources.qmd
+            text: Overview
           - href: content/Onboarding.qmd
             text: Onboarding
           - href: content/SOPs.qmd
             text: Standard Operating Procedures
+          - href: content/Forms.qmd
+            text: Forms
 
 format:
   html:
