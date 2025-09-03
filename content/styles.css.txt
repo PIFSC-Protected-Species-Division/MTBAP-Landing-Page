@@ -1,65 +1,42 @@
-/* ============================
-   Grid cards for peer-reviewed articles page
-   ============================ */
-
+/* Layout for the grid container */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.2rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem; /* space between cards */
   margin-bottom: 2rem;
 }
 
+/* Style for each card */
 .card {
-  background: #ffffff;
-  padding: 1rem 1.25rem;
-  border-radius: 14px;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+/* Hover effect */
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
 }
 
-.card b,
-.card strong {
-  font-size: 1rem;
+/* Article title styling */
+.card strong, .card b {
   display: block;
-  margin-bottom: 0.6rem;
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
 }
 
+/* Link styling */
 .card a {
   text-decoration: none;
-  color: #005f73;
-  font-weight: 600;
+  color: #006699;
+  font-weight: 500;
 }
 
 .card a:hover {
   text-decoration: underline;
-  color: #0a9396;
 }
 
-/* ============================
-   Year headers styling
-   ============================ */
-
-h2 {
-  font-size: 1.8rem;
-  font-weight: 700;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  color: #0a3d62;
-  position: relative;
-  padding-bottom: 0.4rem;
-}
-
-h2::after {
-  content: "";
-  display: block;
-  width: 60px;
-  height: 3px;
-  background-color: #0a9396;
-  margin-top: 0.3rem;
-  border-radius: 2px;
-}
