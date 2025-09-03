@@ -4,10 +4,11 @@ format:
   html:
     toc: true
     toc-location: left
+    css: styles.css
 ---
 
 ## 2025
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings**  
@@ -22,7 +23,7 @@ format:
 :::
 
 ## 2024
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Abundance, production, and migrations of nesting green turtles at Rose Atoll, American Samoa, a regionally important rookery in the Central South Pacific Ocean**  
@@ -37,7 +38,7 @@ format:
 :::
 
 ## 2023
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation**  
@@ -67,7 +68,7 @@ format:
 :::
 
 ## 2021
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Hawksbill Nesting in Hawai'i: 30-Year Dataset Reveals Recent Positive Trend for a Small, Yet Vital Population**  
@@ -87,7 +88,7 @@ format:
 :::
 
 ## 2020
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Hawaiian hawksbills: a distinct and isolated nesting colony in the Central North Pacific Ocean revealed by mitochondrial DNA**  
@@ -102,7 +103,7 @@ format:
 :::
 
 ## 2019
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Baseline Health Parameters of East Pacific Green Turtles at Southern California Foraging Grounds**  
@@ -117,7 +118,7 @@ format:
 :::
 
 ## 2018
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World**  
@@ -142,7 +143,7 @@ format:
 :::
 
 ## 2017
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Demography of Marine Turtles in the Nearshore Environments of the Northern Mariana Islands**  
@@ -162,7 +163,7 @@ format:
 :::
 
 ## 2016
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Five Decades of Marine Megafauna Surveys from Micronesia**  
@@ -182,7 +183,7 @@ format:
 :::
 
 ## 2015
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Buoyless Nets Reduce Sea Turtle Bycatch in Coastal Net Fisheries**  
@@ -192,7 +193,7 @@ format:
 :::
 
 ## 2012
-::: {.grid auto}
+::: {.grid}
 
 ::: {.card}
 **Age and growth rates of Hawaiian hawksbill turtles (Eretmochelys imbricata) using skeletochronology**  
