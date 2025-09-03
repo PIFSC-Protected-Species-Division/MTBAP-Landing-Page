@@ -36,7 +36,7 @@ WIP PAGE
 :::
 
 ## 2023
-::: {.grid cols=2}
+::: {.grid cols=3}
 
 ::: {.card}
 **Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation**  
@@ -66,7 +66,7 @@ WIP PAGE
 :::
 
 ## 2021
-::: {.grid cols=2}
+::: {.grid cols=3}
 
 ::: {.card}
 **Hawksbill Nesting in Hawai'i: 30-Year Dataset Reveals Recent Positive Trend for a small, Yet Vital Population**  
@@ -111,7 +111,7 @@ WIP PAGE
 :::
 
 ## 2018
-::: {.grid cols=2}
+::: {.grid cols=3}
 
 ::: {.card}
 **Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World**  
@@ -136,7 +136,7 @@ WIP PAGE
 :::
 
 ## 2017
-::: {.grid cols=2}
+::: {.grid cols=3}
 
 ::: {.card}
 **Demography of Marine Turtles in the Nearshore Environments of the Northern Mariana Islands**  
@@ -156,7 +156,7 @@ WIP PAGE
 :::
 
 ## 2016
-::: {.grid cols=2}
+::: {.grid cols=3}
 
 ::: {.card}
 **Five Decades of Marine Megafauna Surveys from Micronesia**  
