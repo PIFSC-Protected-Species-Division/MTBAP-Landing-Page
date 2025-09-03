@@ -1,9 +1,10 @@
 ---
 title: "Peer-Reviewed Articles"
-format: html
+format:
+  html:
+    toc: true
+    toc-location: left
 ---
-
-WIP PAGE
 
 ## 2025
 ::: {.grid auto}
@@ -54,7 +55,7 @@ WIP PAGE
 :::
 
 ::: {.card}
-**Non-random mating within an Island rookery of Hawaiian hawksbill turtles: demographic discontinuity at a small coastline scale** 
+**Non-random mating within an Island rookery of Hawaiian hawksbill turtles: demographic discontinuity at a small coastline scale**  
 [📄 Read Article](https://royalsocietypublishing.org/doi/10.1098/rsos.221547)
 :::
 
@@ -93,10 +94,20 @@ WIP PAGE
 [📄 Read Article](https://link.springer.com/article/10.1007/s10592-020-01287-1)
 :::
 
+::: {.card}
+**Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area**  
+[📄 Read Article](https://www.navfac.navy.mil/Portals/68/Documents/Environmental/NEPA/FinalReports/SeaTurtleTaggingMITT.pdf)
+:::
+
 :::
 
 ## 2019
 ::: {.grid auto}
+
+::: {.card}
+**Baseline Health Parameters of East Pacific Green Turtles at Southern California Foraging Grounds**  
+[📄 Read Article](https://bioone.org/journals/chelonian-conservation-and-biology/volume-18/issue-2/CCB-1347.1/Baseline-Health-Parameters-of-East-Pacific-Green-Turtles-at-Southern/10.2744/CCB-1347.1.short)
+:::
 
 ::: {.card}
 **Potential limitations of behavioral plasticity and the role of egg relocation in climate change mitigation for a thermally sensitive endangered species**  
@@ -110,7 +121,7 @@ WIP PAGE
 
 ::: {.card}
 **Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World**  
-[📄 Read Article](https://www.cell.com/current-biology/fulltext/S0960-9822%2817%2931539-7?inline-read-more=)
+[📄 Read Article](https://www.cell.com/current-biology/fulltext/S0960-9822%2817%2931539-7?inline-read-more)
 :::
 
 ::: {.card}
