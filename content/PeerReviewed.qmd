@@ -39,28 +39,28 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Stable isotope ecology of green sea turtles in the Mariana Archipelago**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2023.1145561/full)
+**Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1116941/full)
 :::
 
 ::: {.card}
-**Long-term trends in nesting phenology, reproductive output, and demography of Hawaiian green turtles (Chelonia mydas)**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2023.1129694/full)
-:::
-
-:::
-
-## 2022
-::: {.grid auto}
-
-::: {.card}
-**Population structure of green turtles (Chelonia mydas) in the Mariana Archipelago**  
-[📄 Read Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271790)
+**Evaluation of a long-term information tool reveals continues suitability for identifying bycatch hotspots but little effect on fisher location choice**  
+[📄 Read Article](https://www.sciencedirect.com/science/article/pii/S0006320723000125?via%3Dihub)
 :::
 
 ::: {.card}
-**In-water demographics of Hawaiian green turtles (Chelonia mydas): Investigating spatio-temporal variability with generalized additive models**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2022.861694/full)
+**Origins of green turtle fishery bycatch in the central Pacific revealed by mixed genetic markers**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1112842/full)
+:::
+
+::: {.card}
+**Non-random mating within an Island rookery of Hawaiian hawksbill turtles: demographic discontinuity at a small coastline scale** 
+[📄 Read Article](https://royalsocietypublishing.org/doi/10.1098/rsos.221547)
+:::
+
+::: {.card}
+**Sequential scute growth layers reveal developmental histories of hawksbill sea turtles**  
+[📄 Read Article](https://link.springer.com/article/10.1007/s00227-023-04229-w)
 :::
 
 :::
@@ -69,13 +69,18 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Variation in size and abundance of Hawaiian green turtles (Chelonia mydas) at foraging habitats in the Hawaiian Archipelago**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2021.659279/full)
+**Hawksbill Nesting in Hawai'i: 30-Year Dataset Reveals Recent Positive Trend for a Small, Yet Vital Population**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.770424/full)
 :::
 
 ::: {.card}
-**Movement ecology of green turtles in the central North Pacific Ocean**  
-[📄 Read Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248893)
+**Species and population specific gene expression in blood transcriptomes of marine turtles**  
+[📄 Read Article](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07656-5)
+:::
+
+::: {.card}
+**Interactions Among Hawaiian Hawksbills Suggest Prevalence of Social Behaviors in Marine Turtles**  
+[📄 Read Article](https://bioone.org/journals/chelonian-conservation-and-biology/volume-20/issue-2/CCB-1481.1/Interactions-Among-Hawaiian-Hawksbills-Suggest-Prevalence-of-Social-Behaviors-in/10.2744/CCB-1481.1.short)
 :::
 
 :::
@@ -84,13 +89,8 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Growth dynamics of Hawaiian green turtles (Chelonia mydas): A spatio-temporal perspective**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00512/full)
-:::
-
-::: {.card}
-**Hawaiian green turtles graze invasive algae and contribute to reef resilience**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00472/full)
+**Hawaiian hawksbills: a distinct and isolated nesting colony in the Central North Pacific Ocean revealed by mitochondrial DNA**  
+[📄 Read Article](https://link.springer.com/article/10.1007/s10592-020-01287-1)
 :::
 
 :::
@@ -99,13 +99,8 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Population structure and connectivity of green turtles nesting at French Frigate Shoals, Hawaiian Archipelago**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2019.00433/full)
-:::
-
-::: {.card}
-**Spatio-temporal variation in growth of juvenile green turtles (Chelonia mydas) in the Pacific**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2019.00432/full)
+**Potential limitations of behavioral plasticity and the role of egg relocation in climate change mitigation for a thermally sensitive endangered species**  
+[📄 Read Article](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4774)
 :::
 
 :::
@@ -114,13 +109,23 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Hawaiian green turtles (Chelonia mydas) recover: Long-term trends at foraging habitats in the Hawaiian Archipelago**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2018.00435/full)
+**Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World**  
+[📄 Read Article](https://www.cell.com/current-biology/fulltext/S0960-9822%2817%2931539-7?inline-read-more=)
 :::
 
 ::: {.card}
-**Long-term growth dynamics of Hawaiian green turtles (Chelonia mydas): A spatio-temporal perspective**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2018.00434/full)
+**Endangered Green Turtles (Chelonia mydas) of the Northern Mariana Islands: Nesting Ecology, Poaching, and Climate Concerns**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00428/full)
+:::
+
+::: {.card}
+**The Utility of Combining Stable Isotope and Hormone Analyses for Marine Megafauna Research**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2018.00338/full)
+:::
+
+::: {.card}
+**Prevalence of polygyny in a critically endangered marine turtle population**  
+[📄 Read Article](https://www.sciencedirect.com/science/article/abs/pii/S0022098117304501#:~:text=Using%20six%20highly%20polymorphic%20microsatellite,a%20common%20mating%20structure%20for)
 :::
 
 :::
@@ -129,13 +134,18 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Demographic connectivity of Hawaiian green turtles (Chelonia mydas): Insights from genetic markers and satellite telemetry**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2017.00435/full)
+**Demography of Marine Turtles in the Nearshore Environments of the Northern Mariana Islands**  
+[📄 Read Article](https://bioone.org/journals/pacific-science/volume-71/issue-3/71.3.3/Demography-of-Marine-Turtles-in-the-Nearshore-Environments-of-the/10.2984/71.3.3.full)
 :::
 
 ::: {.card}
-**Foraging ecology of green turtles in the Hawaiian Archipelago**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2017.00434/full)
+**Natal foraging philopatry in eastern Pacific hawksbill turtles**  
+[📄 Read Article](https://royalsocietypublishing.org/doi/10.1098/rsos.170153)
+:::
+
+::: {.card}
+**Living on the Edge: Hawksbill turtle nesting and conservation along the Eastern Pacific Rim**  
+[📄 Read Article](https://www.researchgate.net/publication/318381176_Living_on_the_Edge_Hawksbill_turtle_nesting_and_conservation_along_the_Eastern_Pacific_Rim)
 :::
 
 :::
@@ -144,8 +154,18 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Long-term demography of Hawaiian green turtles (Chelonia mydas): Recovery and challenges**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2016.00269/full)
+**Five Decades of Marine Megafauna Surveys from Micronesia**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2015.00116/full)
+:::
+
+::: {.card}
+**An Ecosystem Services Perspective for the Oceanic Eastern Tropical Pacific: Commercial Fisheries, Carbon Storage, Recreational Fishing, and Biodiversity**  
+[📄 Read Article](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2016.00050/full)
+:::
+
+::: {.card}
+**The developmental biography of hawksbill sea turtles in the North Pacific**  
+[📄 Read Article](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2034)
 :::
 
 :::
@@ -154,8 +174,8 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Foraging ecology and demography of Hawaiian green turtles (Chelonia mydas) across the Hawaiian Archipelago**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2015.00153/full)
+**Buoyless Nets Reduce Sea Turtle Bycatch in Coastal Net Fisheries**  
+[📄 Read Article](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12176)
 :::
 
 :::
@@ -164,8 +184,8 @@ WIP PAGE
 ::: {.grid auto}
 
 ::: {.card}
-**Regional variation in demography of Hawaiian green turtles (Chelonia mydas): Implications for conservation**  
-[📄 Read Article](https://www.frontiersin.org/articles/10.3389/fmars.2012.00027/full)
+**Age and growth rates of Hawaiian hawksbill turtles (Eretmochelys imbricata) using skeletochronology**  
+[📄 Read Article](https://link.springer.com/article/10.1007/s00227-012-2058-7)
 :::
 
 :::
