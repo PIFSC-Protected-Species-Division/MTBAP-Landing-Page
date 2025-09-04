@@ -4,16 +4,21 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem; /* space between cards */
   margin-bottom: 2rem;
+  align-items: stretch; /* make all cards equal height */
 }
 
 /* Style for each card */
 .card {
+  display: flex;              /* let children stretch */
+  flex-direction: column;     /* stack content vertically */
+  justify-content: space-between;
   background-color: #ffffff;
   border: 1px solid #ddd;
   border-radius: 12px;
   padding: 1rem;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  min-height: 220px; /* 👈 ensures they don't collapse */
 }
 
 /* Hover effect */
@@ -23,10 +28,12 @@
 }
 
 /* Article title styling */
-.card strong, .card b {
+.card strong,
+.card b {
   display: block;
   font-size: 1.05rem;
   margin-bottom: 0.5rem;
+  flex-grow: 1; /* 👈 title takes up available space */
 }
 
 /* Link styling */
@@ -34,9 +41,11 @@
   text-decoration: none;
   color: #006699;
   font-weight: 500;
+  margin-top: auto; /* 👈 pushes link to bottom */
 }
 
 .card a:hover {
   text-decoration: underline;
 }
+
 
