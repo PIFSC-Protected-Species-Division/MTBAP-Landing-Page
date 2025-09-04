@@ -94,12 +94,8 @@ website:
 
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
-    code-copy: true
-    code-overflow: wrap
-    toc: true
+    theme: cosmo   # you can switch themes if you like
+    css: content/styles.css
 
 filters:
   - include-files.lua
