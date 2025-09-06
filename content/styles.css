@@ -1,33 +1,69 @@
 /* ============================
-   Global Styles
+   NOAA-Inspired Global Styles
    ============================ */
 
 /* Base typography */
 body, p, h1, h2, h3, h4, h5, h6 {
-  font-size: 16px;
-  color: #222;
-  line-height: 1.6;
   font-family: "Helvetica Neue", Arial, sans-serif;
-  background-color: #f9f9f9;
+  color: #004466;      /* dark ocean blue text */
+  line-height: 1.6;
   margin: 0;
   padding: 0;
+  background-color: #f0f8ff; /* very light blue background */
 }
 
 /* Links */
 a {
-  color: #0077aa;
+  color: #0077aa;       /* NOAA blue accent */
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #004466;
 }
 
 /* ============================
-   Grid + Card Layout
+   Header & Footer
    ============================ */
+header, footer {
+  background-color: #004466; /* deep ocean blue */
+  color: #fff;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  padding: 1rem 2rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
 
-/* Grid container */
+/* Footer links */
+footer a {
+  color: #fff;
+  margin: 0 0.5rem;
+}
+
+footer a:hover {
+  color: #66c2ff; /* lighter blue on hover */
+  text-decoration: underline;
+}
+
+/* ============================
+   Cards & Content Boxes
+   ============================ */
+.card {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Grid layout */
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -35,36 +71,3 @@ a:hover {
   margin-bottom: 2rem;
 }
 
-/* Individual cards */
-.card {
-  background: #fff;
-  padding: 1rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-/* Hover effect */
-.card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-/* Headings inside cards */
-.card h3, .card strong {
-  font-size: 1.1rem;
-  margin-top: 0;
-  color: #333;
-}
-
-/* Links inside cards */
-.card a {
-  display: inline-block;
-  margin-top: 0.5rem;
-  font-weight: bold;
-  color: #0077aa;
-}
-
-.card a:hover {
-  text-decoration: underline;
-}
