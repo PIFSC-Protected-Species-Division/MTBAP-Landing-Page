@@ -1,9 +1,6 @@
 ---
 title: "Peer-Reviewed Articles"
-format:
-  html:
-    toc: true
-    toc-location: left
+format: html
 ---
 
 ## 2025
