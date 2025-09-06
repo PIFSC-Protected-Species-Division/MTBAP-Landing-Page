@@ -20,15 +20,6 @@ format: html
 
 :::
 
-## 2021
-::: {.grid}
-
-::: {.card}
-[Sea Turtle Tagging in the Naval Base Guam Area: January 2020](https://repository.library.noaa.gov/view/noaa/33294)
-:::
-
-:::
-
 ## 2020
 ::: {.grid}
 
@@ -38,6 +29,10 @@ format: html
 
 ::: {.card}
 [Update to Assessing the Population-level Impacts of North Pacific Loggerhead and Western Pacific Leatherback Turtle Interactions, inclusion of the Hawaii-based Deep-set and American Samoa-based Longline Fisheries](https://repository.library.noaa.gov/view/noaa/24251)
+:::
+
+::: {.card}
+[Sea Turtle Tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/33294)
 :::
 
 :::
@@ -81,5 +76,6 @@ format: html
 :::
 
 :::
+
 
 
