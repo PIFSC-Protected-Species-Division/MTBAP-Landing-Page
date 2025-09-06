@@ -57,8 +57,6 @@ website:
 
       - section: "Projects"
         contents:
-          - href: content/turtleprojects.qmd
-            text: Overview
           - href: content/Skeletochronology.qmd
             text: Skeletochronology
           - href: content/Fieldwork.qmd
@@ -72,8 +70,6 @@ website:
 
       - section: "Publications"
         contents:
-          - href: content/Publications.qmd
-            text: Overview
           - href: content/PeerReviewed.qmd
             text: Peer-Reviewed Articles
           - href: content/Reports.qmd
@@ -83,8 +79,6 @@ website:
 
       - section: "Resources"
         contents:
-          - href: content/Resources.qmd
-            text: Overview
           - href: content/Onboarding.qmd
             text: Onboarding
           - href: content/SOPs.qmd
