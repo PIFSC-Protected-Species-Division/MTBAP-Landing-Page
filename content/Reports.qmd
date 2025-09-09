@@ -3,25 +3,24 @@ title: "Technical Reports"
 format: html
 ---
 
-Technical reports produced by MTBAP and partner agencies documenting field surveys, tagging programs,
-and conservation assessments.[NOAA Institutional Repository](https://repository.library.noaa.gov/)
+Technical reports produced by MTBAP and partner agencies documenting field surveys, tagging programs, and conservation assessments. [NOAA Institutional Repository](https://repository.library.noaa.gov/)
 
 ## 2024
 ::: {.grid}
 
 ::: {.card}
 [Sea Turtle Surveys and Satellite Tracking in the Naval Defense Sea Area (Pearl Harbor) O'ahu, Hawai'i, United States](https://repository.library.noaa.gov/view/noaa/66118)  
-<small><em>Gaos, A.R.; Staman, J.W.; Martin, S.L. — NOAA Technical Report 2024</em></small>
+<small><em>Gaos, A.R.; Staman, J.W.; Martin, S.L. NOAA Technical Report 2024.</em></small>
 :::
 
 ::: {.card}
 [2013-2023 Final Report: Sea Turtle Surveys and Tracking in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/61493)  
-<small><em>Gaos, Alexander A.; Martin, Summer L.; Allen, Camryn — NOAA Technical Report 2024</em></small>
+<small><em>Gaos, Alexander A.; Martin, Summer L.; Allen, Camryn. NOAA Technical Report 2024.</em></small>
 :::
 
 ::: {.card}
 [Marine Turtle Biology and Assessment Program Final Programmatic Environmental Assessment](https://repository.library.noaa.gov/view/noaa/60796)  
-<small><em>Allen, C.; McCue, L.; Coppenrath, C. — NOAA Technical Report 2024</em></small>
+<small><em>Allen, C.; McCue, L.; Coppenrath, C. NOAA Technical Report 2024.</em></small>
 :::
 
 :::
@@ -31,17 +30,17 @@ and conservation assessments.[NOAA Institutional Repository](https://repository.
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/23886)  
-<small><em>Gaos, Alexander R.; Martin, Summer L.; Jones, Timothy Todd — NOAA Technical Report 2020</em></small>
+<small><em>Gaos, Alexander R.; Martin, Summer L.; Jones, Timothy Todd. NOAA Technical Report 2020.</em></small>
 :::
 
 ::: {.card}
 [Update to Assessing the Population-level Impacts of North Pacific Loggerhead and Western Pacific Leatherback Turtle Interactions, inclusion of the Hawaii-based Deep-set and American Samoa-based Longline Fisheries](https://repository.library.noaa.gov/view/noaa/24251)  
-<small><em>Martin, Summer L.; Siders, Zachary; Eguchi, Tomoharu — NOAA Technical Report 2020</em></small>
+<small><em>Martin, Summer L.; Siders, Zachary; Eguchi, Tomoharu. NOAA Technical Report 2020.</em></small>
 :::
 
 ::: {.card}
 [Sea Turtle Tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/33294)  
-<small><em>Gaos, A.R.; Martin, S.L.; Jones, T.T. — NOAA Technical Report 2020</em></small>
+<small><em>Gaos, A.R.; Martin, S.L.; Jones, T.T. NOAA Technical Report 2020.</em></small>
 :::
 
 :::
@@ -51,7 +50,7 @@ and conservation assessments.[NOAA Institutional Repository](https://repository.
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/21448)  
-<small><em>Martin, Summer L.; Gaos, Alexander R.; Jones, Timothy Todd — NOAA Technical Report 2019</em></small>
+<small><em>Martin, Summer L.; Gaos, Alexander R.; Jones, Timothy Todd. NOAA Technical Report 2019.</em></small>
 :::
 
 :::
@@ -61,7 +60,7 @@ and conservation assessments.[NOAA Institutional Repository](https://repository.
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/17281)  
-<small><em>Martin, Summer L.; Jones, Timothy Todd; Gaos, Alexander R. — NOAA Technical Report 2018</em></small>
+<small><em>Martin, Summer L.; Jones, Timothy Todd; Gaos, Alexander R. NOAA Technical Report 2018.</em></small>
 :::
 
 :::
@@ -71,12 +70,12 @@ and conservation assessments.[NOAA Institutional Repository](https://repository.
 
 ::: {.card}
 [Marine Turtle Surveys and Captures in the Mariana Islands](https://repository.library.noaa.gov/view/noaa/18742)  
-<small><em>Martin, Summer L.; Jones, Timothy Todd — NOAA Technical Report 2017</em></small>
+<small><em>Martin, Summer L.; Jones, Timothy Todd. NOAA Technical Report 2017.</em></small>
 :::
 
 ::: {.card}
 [Sea turtle tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/15114)  
-<small><em>Martin, Summer L.; Jones, Timothy Todd — NOAA Technical Report 2017</em></small>
+<small><em>Martin, Summer L.; Jones, Timothy Todd. NOAA Technical Report 2017.</em></small>
 :::
 
 :::
@@ -86,10 +85,11 @@ and conservation assessments.[NOAA Institutional Repository](https://repository.
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Range Complex (MIRC) progress report](https://repository.library.noaa.gov/view/noaa/12714)  
-<small><em>Jones, Timothy Todd; Martin, Summer L.; Van Houtan, Kyle Schuyler — NOAA Technical Report 2015</em></small>
+<small><em>Jones, Timothy Todd; Martin, Summer L.; Van Houtan, Kyle Schuyler. NOAA Technical Report 2015.</em></small>
 :::
 
 :::
+
 
 
 
