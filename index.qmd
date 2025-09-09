@@ -16,7 +16,7 @@ Our work is guided by species-specific recovery plans and conducted in collabora
 :::
 
 ::: {.g-col-5}
-![MTBAP Area of Research](content/images/jurisdiction.png){width="100%"}
+![MTBAP Area of Research](content/images/jurisdiction.png){width="80%"}
 :::
 
 :::
@@ -92,11 +92,21 @@ These relationships strengthen conservation outcomes and extend the reach of our
 
 # Fast Facts
 
+::: {.grid}
+
+::: {.g-col-7}
 ::: {.callout-note}
 - **5 sea turtle species studied** in the North Pacific  
 - **50+ years** of long-term monitoring  
 - **1,000+ turtles rescued and rehabilitated**  
 - Research conducted across **Hawaiʻi, Guam, CNMI, American Samoa, and other U.S. Pacific Islands**
+:::
+:::
+
+::: {.g-col-5}
+![Sea Turtles Studied by MTBAP](content/images/species.png){width="100%"}
+:::
+
 :::
 
 ---
