@@ -1,6 +1,0 @@
----
-title: "Mission"
-format: html
----
-
-filler

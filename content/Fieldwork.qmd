@@ -1,6 +1,0 @@
----
-title: "Fieldwork"
-format: html
----
-
-Filler
