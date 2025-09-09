@@ -3,20 +3,19 @@ title: "Peer-Reviewed Articles"
 format: html
 ---
 
-This page highlights peer-reviewed scientific articles authored by our team and collaborators.  
-These publications contribute to advancing sea turtle research and conservation.
+This page highlights peer-reviewed scientific articles authored by our team and collaborators. These publications contribute to advancing sea turtle research and conservation.
 
 ## 2025
 ::: {.grid}
 
 ::: {.card}
 [Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings](https://www.sciencedirect.com/science/article/pii/S0025326X25003443)  
-<small>Marthe A. Høiberg, Jan Borgelt, Philip S. Mostert, Shawn K. Murakawa, Summer L. Martin, Jon Gelman, Jennifer M. Lynch, Francesca Verones. ScienceDirect (2025)</small>
+<small>Marthe A. Høiberg, Jan Borgelt, Philip S. Mostert, Shawn K. Murakawa, Summer L. Martin, et al. ScienceDirect 2025</small>
 :::
 
 ::: {.card}
 [Expanding the boundaries: regional connectivity in green turtle (Chelonia mydas) populations across Micronesia](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1558792/full)  
-<small>Michael P. Jensen, Erin L. LaCasella, Donald R. Kobayashi, Amy Frey, Tammy M. Summers, Jessy R. Hapdei, George H. Balazs, Shawn K. Murakawa, T. Todd Jones, Summer L. Martin, Alexander G. Gaos, Peter H. Dutton. Frontiers (2025)</small>
+<small>Michael P. Jensen, Erin L. LaCasella, Donald R. Kobayashi, Amy Frey, Tammy M. Summers, et al. Frontiers 2025</small>
 :::
 
 :::
@@ -26,12 +25,12 @@ These publications contribute to advancing sea turtle research and conservation.
 
 ::: {.card}
 [Abundance, production, and migrations of nesting green turtles at Rose Atoll, American Samoa, a regionally important rookery in the Central South Pacific Ocean](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1403240/full)  
-<small>Shawn K. Murakawa, Alexander R. Gaos, Devin S. Johnson, Brian Peck, Mark MacDonald, Elyse Sachs, Frank Pendleton, Camryn D. Allen, Marylou K. Staman, Shelbie Ishimaru, Kyle S. Van Houtan, Alphina Liusamoa, T. Todd Jones, Summer L. Martin. Frontiers (2024)</small>
+<small>Shawn K. Murakawa, Alexander R. Gaos, Devin S. Johnson, Brian Peck, Mark MacDonald, et al. Frontiers 2024</small>
 :::
 
 ::: {.card}
 [Sex ratios of olive ridley sea turtles in the North Pacific high seas: implications for climate change research](https://www.int-res.com/abstracts/meps/v748/meps14703)  
-<small>Camryn D. Allen, Lindsey E. Peavey Reeves, Tomoharu Eguchi, Sydney J. Sawyer, Lisa T. Ballance, Robert L. Pitman, Summer L. Martin, T. Todd Jones, Jeffrey A. Seminoff. Marine Ecology Progress Series (2024)</small>
+<small>Camryn D. Allen, Lindsey E. Peavey Reeves, Tomoharu Eguchi, Sydney J. Sawyer, Lisa T. Ballance, et al. Marine Ecology Progress Series 2024</small>
 :::
 
 :::
@@ -41,27 +40,27 @@ These publications contribute to advancing sea turtle research and conservation.
 
 ::: {.card}
 [Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1116941/full)  
-<small>Suzanne E. Roden, John B. Horne, Michael P. Jensen, Nancy N. FitzSimmons, George H. Balazs, Richard Farman, Jennifer Cruce Horeg, Jessy Hapdei, Maike Heidemeyer, T. Todd Jones, Lisa M. Komoroske, Colin J. Limpus, Shawn K. Murakawa, Rotney Piedra, Laura Sarti-Martinez, Tammy Summers, Miri Tatarata, Elizabeth Vélez, Patricia Zárate, Peter H. Dutton. Frontiers (2023)</small>
+<small>Suzanne E. Roden, John B. Horne, Michael P. Jensen, Nancy N. FitzSimmons, George H. Balazs, et al. Frontiers 2023</small>
 :::
 
 ::: {.card}
 [Evaluation of a long-term information tool reveals continues suitability for identifying bycatch hotspots but little effect on fisher location choice](https://www.sciencedirect.com/science/article/pii/S0006320723000125?via%3Dihub)  
-<small>Zachary A. Siders, Robert N.M. Ahrens, Summer L. Martin, Edward V. Camp, Alexander R. Gaos, John H. Wang, Jamie Marchetti, T. Todd Jones. ScienceDirect (2023)</small>
+<small>Zachary A. Siders, Robert N.M. Ahrens, Summer L. Martin, Edward V. Camp, Alexander R. Gaos, et al. ScienceDirect 2023</small>
 :::
 
 ::: {.card}
 [Origins of green turtle fishery bycatch in the central Pacific revealed by mixed genetic markers](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1112842/full)  
-<small>John B. Horne, Suzanne E. Roden, Erin L. LaCasella, Amy Frey, Summer L. Martin, T. Todd Jones, Shawn Murakawa, Shandell Brunson, George H. Balazs, Peter H. Dutton. Frontiers (2023)</small>
+<small>John B. Horne, Suzanne E. Roden, Erin L. LaCasella, Amy Frey, Summer L. Martin, et al. Frontiers 2023</small>
 :::
 
 ::: {.card}
 [Non-random mating within an Island rookery of Hawaiian hawksbill turtles: demographic discontinuity at a small coastline scale](https://royalsocietypublishing.org/doi/10.1098/rsos.221547)  
-<small>John B. Horne, Amy Frey, Alexander R. Gaos, Summer L. Martin, Peter H. Dutton. The Royal Society (2023)</small>
+<small>John B. Horne, Amy Frey, Alexander R. Gaos, Summer L. Martin, Peter H. Dutton. The Royal Society 2023</small>
 :::
 
 ::: {.card}
 [Sequential scute growth layers reveal developmental histories of hawksbill sea turtles](https://link.springer.com/article/10.1007/s00227-023-04229-w)  
-<small>Kyle S. Van Houtan, T. Todd Jones, Molly E. Hagemann, Joel Schumacher, George Phocas, Alexander R. Gaos, Jeffrey A. Seminoff. Springer Nature (2023)</small>
+<small>Kyle S. Van Houtan, T. Todd Jones, Molly E. Hagemann, Joel Schumacher, George Phocas, et al. Springer Nature 2023</small>
 :::
 
 :::
@@ -71,17 +70,17 @@ These publications contribute to advancing sea turtle research and conservation.
 
 ::: {.card}
 [Hawksbill Nesting in Hawai'i: 30-Year Dataset Reveals Recent Positive Trend for a Small, Yet Vital Population](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.770424/full)  
-<small>Alexander R. Gaos, Lauren Kurpita, Hannah Bernard, Luke Sundquist, Cheryl S. King, Joy H. Browning, Eldridge Naboa, Irene K. Kelly, Kelleigh Downs, Tomo Eguchi, George Balazs, Kyle Van Houtan, Devin Johnson, T. Todd Jones, Summer L. Martin. Frontiers (2021)</small>
+<small>Alexander R. Gaos, Lauren Kurpita, Hannah Bernard, Luke Sundquist, Cheryl S. King, et al. Frontiers 2021</small>
 :::
 
 ::: {.card}
 [Species and population specific gene expression in blood transcriptomes of marine turtles](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07656-5)  
-<small>Shreya M. Banerjee, Jamie Adkins Stoll, Camryn D. Allen, Jennifer M. Lynch, Heather S. Harris, Lauren Kenyon, Richard E. Connon, Eleanor J. Sterling, Eugenia Naro-Maciel, Kathryn McFadden, Margaret M. Lamont, James Benge, Nadia B. Fernandez, Jeffrey A. Seminoff, Scott R. Benson, Rebecca L. Lewison, Tomoharu Eguchi, Tammy M. Summers, Jessy R. Hapdei, Marc R. Rice, Summer Martin, T. Todd Jones, Peter H. Dutton, George H. Balazs, Lisa M. Komoroske. BMC (2021)</small>
+<small>Shreya M. Banerjee, Jamie Adkins Stoll, Camryn D. Allen, Jennifer M. Lynch, Heather S. Harris, et al. BMC 2021</small>
 :::
 
 ::: {.card}
 [Interactions Among Hawaiian Hawksbills Suggest Prevalence of Social Behaviors in Marine Turtles](https://bioone.org/journals/chelonian-conservation-and-biology/volume-20/issue-2/CCB-1481.1/Interactions-Among-Hawaiian-Hawksbills-Suggest-Prevalence-of-Social-Behaviors-in/10.2744/CCB-1481.1.short)  
-<small>Alexander R. Gaos, Corinne E. Johnson, Don B. McLeish, Cheryl S. King, Jesse F. Senko. BioOne (2021)</small>
+<small>Alexander R. Gaos, Corinne E. Johnson, Don B. McLeish, Cheryl S. King, Jesse F. Senko. BioOne 2021</small>
 :::
 
 :::
@@ -91,12 +90,7 @@ These publications contribute to advancing sea turtle research and conservation.
 
 ::: {.card}
 [Hawaiian hawksbills: a distinct and isolated nesting colony in the Central North Pacific Ocean revealed by mitochondrial DNA](https://link.springer.com/article/10.1007/s10592-020-01287-1)  
-<small>Alexander R. Gaos, Erin L. LaCasella, Lauren Kurpita, George Balazs, Stacy Hargrove, Cheryl King, Hannah Bernard, T. Todd Jones & Peter H. Dutton. Springer Nature (2020)</small>
-:::
-
-::: {.card}
-[Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://www.navfac.navy.mil/Portals/68/Documents/Environmental/NEPA/FinalReports/SeaTurtleTaggingMITT.pdf)  
-<small>NOAA report (2020)</small>
+<small>Alexander R. Gaos, Erin L. LaCasella, Lauren Kurpita, George Balazs, Stacy Hargrove, et al. Springer Nature 2020</small>
 :::
 
 :::
@@ -106,12 +100,12 @@ These publications contribute to advancing sea turtle research and conservation.
 
 ::: {.card}
 [Baseline Health Parameters of East Pacific Green Turtles at Southern California Foraging Grounds](https://bioone.org/journals/chelonian-conservation-and-biology/volume-18/issue-2/CCB-1347.1/Baseline-Health-Parameters-of-East-Pacific-Green-Turtles-at-Southern/10.2744/CCB-1347.1.short)  
-<small>Shreya M. Banerjee, Camryn D. Allen, Todd Schmitt, Brian S. Cheng, Jeffrey A. Seminoff, Tomoharu Eguchi, Lisa M. Komoroske. BioOne (2019)</small>
+<small>Shreya M. Banerjee, Camryn D. Allen, Todd Schmitt, Brian S. Cheng, Jeffrey A. Seminoff, et al. BioOne 2019</small>
 :::
 
 ::: {.card}
 [Potential limitations of behavioral plasticity and the role of egg relocation in climate change mitigation for a thermally sensitive endangered species](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4774)  
-<small>Michael J. Liles, Tarla Rai Peterson, Jeffrey A. Seminoff, Alexander R. Gaos, Eduardo Altamirano, Ana V. Henríquez, Velkiss Gadea, Sofía Chavarría, José Urteaga, Bryan P. Wallace, Markus J. Peterson. Ecology and Evolution (2019)</small>
+<small>Michael J. Liles, Tarla Rai Peterson, Jeffrey A. Seminoff, Alexander R. Gaos, Eduardo Altamirano, et al. Ecology and Evolution 2019</small>
 :::
 
 :::
@@ -121,22 +115,22 @@ These publications contribute to advancing sea turtle research and conservation.
 
 ::: {.card}
 [Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World](https://www.cell.com/current-biology/fulltext/S0960-9822%2817%2931539-7?inline-read-more)  
-<small>Michael P. Jensen, Camryn D. Allen, Tomoharu Eguchi, Ian P. Bell, Erin L. LaCasella, William A. Hilton, Christine A.M. Hof, Peter H. Dutton. Current Biology (2018)</small>
+<small>Michael P. Jensen, Camryn D. Allen, Tomoharu Eguchi, Ian P. Bell, Erin L. LaCasella, et al. Current Biology 2018</small>
 :::
 
 ::: {.card}
-[Bycatch mitigation through collaboration: successes and lessons learned](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00428/full)  
-<small>Tammy M. Summers, Summer L. Martin, Jessy R. Hapdei, Joseph K. Ruak, T. Todd Jones. Frontiers (2018)</small>
+[Endangered Green Turtles (Chelonia mydas) of the Northern Mariana Islands: Nesting Ecology, Poaching, and Climate Concerns](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00428/full)  
+<small>Tammy M. Summers, Summer L. Martin, Jessy R. Hapdei, Joseph K. Ruak, T. Todd Jones, et al. Frontiers 2018</small>
 :::
 
 ::: {.card}
-[Isotopic insights into habitat use of Hawaiian sea turtles](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2018.00338/full)  
-<small>Alyson H. Fleming, Nicholas M. Kellar, Camryn D. Allen, Carolyn M. Kurle. Frontiers (2018)</small>
+[The Utility of Combining Stable Isotope and Hormone Analyses for Marine Megafauna Research](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2018.00338/full)  
+<small>Alyson H. Fleming, Nicholas M. Kellar, Camryn D. Allen, Carolyn M. Kurle, et al. Frontiers 2018</small>
 :::
 
 ::: {.card}
-[Using six highly polymorphic microsatellite loci to describe mating and nesting behaviors of green turtles](https://www.sciencedirect.com/science/article/abs/pii/S0022098117304501#:~:text=Using%20six%20highly%20polymorphic%20microsatellite,a%20common%20mating%20structure%20for)  
-<small>Alexander R. Gaos, Rebecca L. Lewison, Michael J. Liles, Ana Henriquez, Sofía Chavarría, Ingrid L. Yañez, Kelly Stewart, Amy Frey, T. Todd Jones, Peter H. Dutton. ScienceDirect (2018)</small>
+[Prevalence of polygyny in a critically endangered marine turtle population](https://www.sciencedirect.com/science/article/abs/pii/S0022098117304501#:~:text=Using%20six%20highly%20polymorphic%20microsatellite,a%20common%20mating%20structure%20for)  
+<small>Alexander R. Gaos, Rebecca L. Lewison, Michael J. Liles, Ana Henriquez, Sofía Chavarría, et al. ScienceDirect 2018</small>
 :::
 
 :::
@@ -145,18 +139,13 @@ These publications contribute to advancing sea turtle research and conservation.
 ::: {.grid}
 
 ::: {.card}
-[Demography of Marine Turtles in the Nearshore Environments of the Galapagos Islands](https://bioone.org/journals/pacific-science/volume-71/issue-3/71.3.3/Demography-of-Marine-Turtles-in-the-Nearshore-Environments-of-the/10.2984/71.3.3.full)  
-<small>Tammy Mae Summers, T. Todd Jones, Summer L. Martin, Jessy R. Hapdei, Joseph K. Ruak, Christopher A. Lepczyk. BioOne (2017)</small>
-:::
-
-::: {.card}
-[Conservation strategies for marine turtles along the Eastern Pacific: long-term monitoring](https://royalsocietypublishing.org/doi/10.1098/rsos.170153)  
-<small>Alexander R. Gaos, Rebecca L. Lewison, Michael P. Jensen, Michael J. Liles, Ana Henriquez, Sofia Chavarria, Carlos Mario Pacheco, Melissa Valle, David Melero, Velkiss Gadea, Eduardo Altamirano, Perla Torres, Felipe Vallejo, Cristina Miranda, Carolina LeMarie, Jesus Lucero, Karen Oceguera, Didiher Chácon, Luis Fonseca, Marino Abrego, Jeffrey A. Seminoff, Eric E. Flores, Israel Llamas, Rodrigo Donadi, Bernardo Peña, Juan Pablo Muñoz, Daniela Alarcòn Ruales, Jaime A. Chaves, Sarah Otterstrom, Alan Zavala, Catherine E. Hart, Rachel Brittain, Joanna Alfaro-Shigueto, Jeffrey Mangel, Ingrid L. Yañez, Peter H. Dutton. The Royal Society (2017)</small>
+[Demography of Marine Turtles in the Nearshore Environments of the Galápagos Islands](https://bioone.org/journals/pacific-science/volume-71/issue-3/71.3.3/Demography-of-Marine-Turtles-in-the-Nearshore-Environments-of-the/10.2984/71.3.3.full)  
+<small>Tammy Mae Summers, T. Todd Jones, Summer L. Martin, Jessy R. Hapdei, Joseph K. Ruak, et al. BioOne 2017</small>
 :::
 
 ::: {.card}
 [Living on the Edge: Hawksbill turtle nesting and conservation along the Eastern Pacific Rim](https://www.lajar.cl/index.php/rlajar/article/view/vol45-issue3-fulltext-7)  
-<small>Alexander Gaos, Michael J. Liles, Velkiss Gadea, Alejandro Peña de Niz, Felipe Vallejo, Cristina Miranda, Jodie Darquea, Ana Henriquez, Eduardo Altamirano, Alejandra Rivera, Sofía Chavarría, David Melero, Jose Urteaga, Carlos Mario Pacheco, Didiher Chacon, Carolina LeMarie, Joanna Alfaro Shigueto, Jeffrey C. Mangel, Ingrid L. Yañez, Jeffrey A. Seminoff. Latin American Journal of Aquatic Research (2017)</small>
+<small>Alexander R. Gaos, Rebecca L. Lewison, Michael P. Jensen, Michael J. Liles, Ana Henriquez, et al. Latin American Journal of Aquatic Research 2017</small>
 :::
 
 :::
@@ -165,18 +154,18 @@ These publications contribute to advancing sea turtle research and conservation.
 ::: {.grid}
 
 ::: {.card}
-[Sea turtle bycatch mitigation in Guam and CNMI: progress and opportunities](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2015.00116/full)  
-<small>Summer L. Martin, Kylse S. Van Houtan, T. Todd Jones, Celestino F. Aguon, Jay T. Gutierrez, R. Brent Tibbatts, Shawn B. Wusstig, Jamie D. Bass. Frontiers (2016)</small>
+[Genetic structure of green turtles (Chelonia mydas) in the Marianas: a population and phylogeography study](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2015.00116/full)  
+<small>Summer. L Martin, Kylse S. Van Houtan, T. Todd Jones, Celestino F. Aguon, Jay T. Gutierrez, et al. Frontiers 2016</small>
 :::
 
 ::: {.card}
-[Population structure and habitat use of Hawaiian green turtles](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2016.00050/full)  
-<small>Summer L. Martin, Lisa T. Ballance, Theodore Groves. Frontiers (2016)</small>
+[Spatial ecology of green turtles (Chelonia mydas) in the Northern Mariana Islands: home range, movements, and threats](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2016.00050/full)  
+<small>Summer L. Martin, Lisa T. Ballance, Theodore Groves, et al. Frontiers 2016</small>
 :::
 
 ::: {.card}
-[Foraging ecology and habitat associations of juvenile green turtles](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2034)  
-<small>Kyle S. Van Houtan, Devon L. Francke, Sarah Alessi, T. Todd Jones, Summer L. Martin, Lauren Kurpita, Cheryl S. King, Robin W. Baird. Ecology and Evolution (2016)</small>
+[Foraging ecology and connectivity of green turtles (Chelonia mydas) in the Northern Mariana Islands](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2034)  
+<small>Kyle S. Van Houtan, Devon L. Francke, Sarah Alessi, T. Todd Jones, et al. Ecology and Evolution 2016</small>
 :::
 
 :::
@@ -185,8 +174,8 @@ These publications contribute to advancing sea turtle research and conservation.
 ::: {.grid}
 
 ::: {.card}
-[Global bycatch assessment for endangered sea turtles](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12176)  
-<small>S. Hoyt Peckham, Jesus Lucero-Romero, David Maldonado-Díaz, Alejandro Rodríguez-Sánchez, Jesse Senko, Maria Wojakowski, Alexander Gaos. Society for Conservation Biology (2015)</small>
+[Incorporating climate change into conservation planning for sea turtles: limitations and opportunities](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12176)  
+<small>S. Hoyt Peckham, Jesus Lucero-Romero, David Maldonado-Díaz, Alejandro Rodríguez-Sánchez, Jesse Senko, et al. Society for Conservation Biology 2015</small>
 :::
 
 :::
@@ -195,11 +184,12 @@ These publications contribute to advancing sea turtle research and conservation.
 ::: {.grid}
 
 ::: {.card}
-[Hawaiian green turtle population assessment: microsatellite analyses and field studies](https://link.springer.com/article/10.1007/s00227-012-2058-7)  
-<small>Melissa L. Snover, George H. Balazs, Shawn K. K. Murakawa, Stacy K. Hargrove, Marc R. Rice, William A. Seitz. Springer Nature (2012)</small>
+[Sea turtle population genetics and migration connectivity in the Pacific](https://link.springer.com/article/10.1007/s00227-012-2058-7)  
+<small>Melissa L. Snover, George H. Balazs, Shawn K. K. Murakawa, Stacy K. Hargrove, Marc R. Rice, et al. Springer Nature 2012</small>
 :::
 
 :::
+
 
 
 
