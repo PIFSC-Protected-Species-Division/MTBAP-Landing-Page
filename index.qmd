@@ -9,7 +9,7 @@ format: html
 
 ![](content/images/jurisdiction.png)
 
-<p><em>MTBAP Area of Research</em></p>
+<p class="image-caption">MTBAP Area of Research</p>
 
 </div>
 
@@ -94,7 +94,7 @@ These relationships strengthen conservation outcomes and extend the reach of our
 
 ![](content/images/species.png){style="max-height: 650px;"}
 
-<p><em>Sea Turtles Studied by MTBAP</em></p>
+<p class="image-caption">Sea Turtles Studied by MTBAP</p>
 
 </div>
 
@@ -114,6 +114,7 @@ By studying population dynamics, evaluating threats, and supporting rehabilitati
 ---
 
 [Meet our team](TeamMembers.qmd) to learn more about the scientists and collaborators behind this work.
+
 
 
 

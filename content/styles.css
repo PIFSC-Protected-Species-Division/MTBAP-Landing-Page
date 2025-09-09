@@ -103,6 +103,18 @@ h2 {
   margin-top: 0.25rem;
 }
 
+/* ============================
+   Image Caption Styling
+   ============================ */
+.image-caption {
+  color: #555555;      /* medium grey */
+  font-size: 0.9em;    /* slightly smaller than body text */
+  font-style: italic;  /* keep italic look */
+  text-align: center;  /* centered under image */
+  margin-top: 0.5rem;
+}
+
+
 
 
 
