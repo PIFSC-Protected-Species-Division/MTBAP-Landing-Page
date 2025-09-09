@@ -85,4 +85,21 @@ footer.q-footer small {
   margin-bottom: 2rem;
 }
 
+/* ============================
+   Spacing Between Year Sections
+   ============================ */
+h2 {
+  margin-top: 3rem;    /* adds space above each year header */
+  margin-bottom: 1rem; /* adds space below year header */
+}
+
+/* ============================
+   Metadata Font Styling
+   ============================ */
+.card small {
+  color: #666;          /* muted gray for metadata */
+  font-style: italic;    /* italicize for distinction */
+}
+
+
 
