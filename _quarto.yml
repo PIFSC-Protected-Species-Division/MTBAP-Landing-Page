@@ -50,23 +50,6 @@ website:
             text: Overview
           - href: content/TeamMembers.qmd
             text: Team Members
-          - href: content/Mission.qmd
-            text: Mission
-          - href: content/History.qmd
-            text: History
-
-      - section: "Projects"
-        contents:
-          - href: content/Skeletochronology.qmd
-            text: Skeletochronology
-          - href: content/Fieldwork.qmd
-            text: Fieldwork
-          - href: content/Filler1.qmd
-            text: Filler
-          - href: content/Filler2.qmd
-            text: Filler
-          - href: content/HonuCount.qmd
-            text: Honu Count
 
       - section: "Publications"
         contents:
