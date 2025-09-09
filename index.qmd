@@ -88,11 +88,13 @@ These relationships strengthen conservation outcomes and extend the reach of our
 
 ---
 
-# Fast Facts
+# By the Numbers
 
-<div style="float: right; width: 30%; margin-left: 20px; text-align: center;">
+<div style="float: right; width: 25%; margin-left: 20px; text-align: center;">
 
-![Sea Turtles Studied by MTBAP](content/images/species.png)
+![Sea Turtles Studied by MTBAP](content/images/species.png){height="500px"}
+
+<p><em>Sea Turtles Studied by MTBAP</em></p>
 
 </div>
 
@@ -112,6 +114,7 @@ By studying population dynamics, evaluating threats, and supporting rehabilitati
 ---
 
 [Meet our team](TeamMembers.qmd) to learn more about the scientists and collaborators behind this work.
+
 
 
 
