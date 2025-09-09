@@ -5,13 +5,21 @@ format: html
 
 # Who We Are
 
-![MTBAP Area of Research](content/images/jurisdiction.png){fig-align="center" width="80%"}
+::: {.grid}
 
+::: {.g-col-7}
 The **Marine Turtle Biology and Assessment Program (MTBAP)** conducts research throughout the Pacific Ocean to support the conservation and management of threatened and endangered sea turtle populations.  
 
 We study sea turtle species that live in the North Pacific Ocean during one or more life stages, from hatchling to adult. This includes **green, loggerhead, olive ridley, leatherback, and hawksbill turtles**—all protected under the U.S. Endangered Species Act.  
 
 Our work is guided by species-specific recovery plans and conducted in collaboration with the U.S. Fish and Wildlife Service, other agencies, and community partners. The knowledge we generate informs management decisions and drives conservation actions across the Pacific Islands Region.  
+:::
+
+::: {.g-col-5}
+![MTBAP Area of Research](content/images/jurisdiction.png){width="100%"}
+:::
+
+:::
 
 ---
 
