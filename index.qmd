@@ -5,9 +5,11 @@ format: html
 
 # Who We Are
 
-<div style="float: right; width: 40%; margin-left: 20px;">
+<div style="float: right; width: 30%; margin-left: 20px; text-align: center;">
 
 ![MTBAP Area of Research](content/images/jurisdiction.png)
+
+<p><em>MTBAP Area of Research</em></p>
 
 </div>
 
@@ -88,7 +90,7 @@ These relationships strengthen conservation outcomes and extend the reach of our
 
 # Fast Facts
 
-<div style="float: right; width: 40%; margin-left: 20px;">
+<div style="float: right; width: 30%; margin-left: 20px; text-align: center;">
 
 ![Sea Turtles Studied by MTBAP](content/images/species.png)
 
@@ -110,5 +112,6 @@ By studying population dynamics, evaluating threats, and supporting rehabilitati
 ---
 
 [Meet our team](TeamMembers.qmd) to learn more about the scientists and collaborators behind this work.
+
 
 
