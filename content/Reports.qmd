@@ -3,6 +3,9 @@ title: "Technical Reports"
 format: html
 ---
 
+Technical reports produced by MTBAP and partner agencies documenting field surveys, tagging programs,  
+and conservation assessments.
+
 ## 2024
 ::: {.grid}
 

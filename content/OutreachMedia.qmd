@@ -3,6 +3,9 @@ title: "Outreach and Media"
 format: html
 ---
 
+Outreach and media features showcasing our work in conservation,  
+public engagement, and collaborative efforts.
+
 ## 2025
 ::: {.grid}
 
