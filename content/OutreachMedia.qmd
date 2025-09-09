@@ -3,8 +3,7 @@ title: "Outreach and Media"
 format: html
 ---
 
-Outreach and media features showcasing our work in conservation,  
-public engagement, and collaborative efforts.
+Outreach and media features highlighting our conservation work, public engagement, and collaborative efforts. More news is available at [NOAA Fisheries](https://www.fisheries.noaa.gov/news-and-announcements/news).
 
 ## 2025
 ::: {.grid}
@@ -70,7 +69,7 @@ public engagement, and collaborative efforts.
 :::
 
 ::: {.card}
-[A How-To Guide for Reporting Potential Marine Wildlife Harassment in Hawai'i](https://www.fisheries.noaa.gov/feature-story/how-guide-reporting-potential-marine-wildlife-harassment-hawaii)
+[A How-To Guide for Reporting Potential Marine Wildlife Harassment in Hawaiʻi](https://www.fisheries.noaa.gov/feature-story/how-guide-reporting-potential-marine-wildlife-harassment-hawaii)
 :::
 
 :::
@@ -79,7 +78,7 @@ public engagement, and collaborative efforts.
 ::: {.grid}
 
 ::: {.card}
-[Hawksbill Sea Turtles Are Truly Hawai'i Locals](https://www.fisheries.noaa.gov/feature-story/hawksbill-sea-turtles-are-truly-hawaii-locals)
+[Hawksbill Sea Turtles Are Truly Hawaiʻi Locals](https://www.fisheries.noaa.gov/feature-story/hawksbill-sea-turtles-are-truly-hawaii-locals)
 :::
 
 ::: {.card}
@@ -96,7 +95,8 @@ public engagement, and collaborative efforts.
 :::
 
 ::: {.card}
-[Rare Olive Ridley Sea Turtle Nest Discovered on O'ahu](https://www.fisheries.noaa.gov/feature-story/rare-olive-ridley-sea-turtle-nest-discovered-oahu)
+[Rare Olive Ridley Sea Turtle Nest Discovered on Oʻahu](https://www.fisheries.noaa.gov/feature-story/rare-olive-ridley-sea-turtle-nest-discovered-oahu)
 :::
 
 :::
+
