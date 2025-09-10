@@ -1,5 +1,7 @@
 project: 
   type: website
+  resources:
+    - "content/forms/*"   # ensures all PDFs get copied into _site
 
 website:
   page-navigation: true
@@ -60,6 +62,7 @@ format:
   html:
     theme: cosmo
     css: content/styles.css
+
 
 
 

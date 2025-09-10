@@ -5,30 +5,30 @@ format: html
 
 # Welcome  
 
-Welcome to the Marine Turtle Biology and Assessment Program!  
+Welcome to the **Marine Turtle Biology and Assessment Program (MTBAP)**!  
 We're excited to have you join us. This page will help you get oriented.  
 
 ---
 
 # First Week Checklist  
 
-1. [📄 Print the Orientation Checklist](content/forms/OrientationChecklist.pdf)  
+1. [📄 Print the Orientation Checklist](/content/forms/OrientationChecklist.pdf)  
    - This will guide you through meeting the team, touring the IRC, and completing required trainings.  
 
-2. Read [SOP 35-4 Safety Orientation](content/forms/SafetyOrientation.pdf)  
+2. Read [SOP 35-4 Safety Orientation](/content/forms/SafetyOrientation.pdf)  
    - Covers workplace safety protocols.  
 
 3. Review [Cyber Security Responsibilities](https://sites.google.com/noaa.gov/pifsc-intranet/operations-management-and-information-division/its-branch/information-technology-services-its/responsibilities)  
    - Outlines NOAA data security policies.  
 
-4. If you require lab access, complete the [Laboratory User Agreement](content/forms/LaboratoryUserAgreement.pdf).  
+4. If you require lab access, complete the [Laboratory User Agreement](/content/forms/LaboratoryUserAgreement.pdf).  
    - Further instructions can be found on [our Google site](https://sites.google.com/noaa.gov/pifsc-labs).  
    - After completing these items, schedule a lab orientation walk-through with Kerry Reardon or Justin Weeks.  
    - Be sure to also complete the additional **Formaldehyde Training**, as this chemical is commonly used in our work.  
 
 5. Many roles require driving government vehicles. To be eligible:  
    - Complete the **NOAA Defensive Driver Training** on the [Commerce Learning Center](https://doc.csodfed.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1).  
-   - After training, fill out the [Safety Acknowledgment Form](content/forms/SafetyAcknowledgment.pdf) and the [Statement of Understanding](content/forms/StatementOfUnderstanding.pdf).  
+   - After training, fill out the [Safety Acknowledgment Form](/content/forms/SafetyAcknowledgement.pdf) and the [Statement of Understanding](/content/forms/StatementOfUnderstanding.pdf).  
    - Bring these forms along with your training certificate, driver’s license, and CAC to Tanya Ochoa to be added to the system.  
 
 6. You may need software such as **RStudio, GitHub, ArcGIS, or ACDSee**.  
@@ -62,6 +62,7 @@ We're excited to have you join us. This page will help you get oriented.
 | Name | Email | Phone |
 |------|-------|-------|
 | Christy Kozama | <christy.kozama@noaa.gov> | 808-359-3738 |
+
 
 
 
