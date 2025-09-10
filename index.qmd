@@ -41,11 +41,8 @@ Our projects focus on the biological health, ecology, and threats to sea turtle 
 - Climate change effects on sea turtle populations and their habitats  
 - Movement patterns and habitat use  
 - Fisheries impacts and bycatch reduction  
-- Genetic diversity and stock structure  
 - Health consequences of tumor-forming diseases such as fibropapillomatosis  
 - Physiology and resource requirements  
-- Behavioral responses to human-made noise  
-- Impacts of biotelemetry devices  
 - Nesting and foraging ecology  
 - Threat assessments across life stages  
 
