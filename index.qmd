@@ -110,7 +110,7 @@ By studying population dynamics, evaluating threats, and supporting rehabilitati
 
 ---
 
-[Meet our team](content/TeamMembers/) to learn more about the scientists and collaborators behind this work.
+[Meet our team](TeamMembers.qmd) to learn more about the scientists and collaborators behind this work.
 
 
 
