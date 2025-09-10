@@ -5,7 +5,7 @@ format: html
 
 # Welcome  
 
-Welcome to the **Marine Turtle Biology and Assessment Program (MTBAP)**!  
+Welcome to the Marine Turtle Biology and Assessment Program!  
 We're excited to have you join us. This page will help you get oriented.  
 
 ---
@@ -55,7 +55,7 @@ We're excited to have you join us. This page will help you get oriented.
 |------|-------|-------|
 | Hope Ronco | <hope.ronco@noaa.gov> | 919-423-4972 |
 | Claudia Cedillo | <claudia.cedillo@noaa.gov> | 210-421-5956 |
-| Rob McLean | <robert.mclea@noaa.gov> | 813-362-3528 |
+| Rob McLean | <robert.mclean@noaa.gov> | 813-362-3528 |
 
 ## Hawaiian Monk Seal Research Program (HMSRP)  
 
