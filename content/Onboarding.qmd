@@ -1,6 +1,49 @@
 ---
 title: "Onboarding"
-format: html
+format:
+  html:
+    toc: true
+    toc-location: left
 ---
 
-Filler
+# Welcome  
+
+Welcome to the **Marine Turtle Biology and Assessment Program (MTBAP)**!  
+We're excited to have you join us. This page will help you get oriented, meet the team, and complete the essentials during your first week.  
+
+---
+
+# Important Contacts  
+
+## Marine Turtle Biology and Assessment Program (MTBAP)  
+
+| Name | Role | Email | Phone |
+|------|------|-------|-------|
+| Summer Martin | Lead | <summer.martin@noaa.gov> | 909-228-8735 |
+| Shawn Murakawa |  | <shawn.murakawa@noaa.gov> | 808-220-5561 |
+| Camryn Allen |  | <camryn.allen@noaa.gov> | 619-787-0185 |
+| Marylou Staman |  | <marylou.staman@noaa.gov> | 808-688-6176 |
+| Alex Gaos |  | <alexander.gaos@noaa.gov> | 808-979-4031 |
+| Jan-Willem Staman |  | <jan.staman@noaa.gov> | 808-699-0737 |
+
+## Protected Species Support Program (PSSP)  
+
+| Name | Role | Email | Phone |
+|------|------|-------|-------|
+| Hope Ronco |  | <hope.ronco@noaa.gov> | 919-423-4972 |
+| Claudia Cedillo |  | <claudia.cedillo@noaa.gov> | 210-421-5956 |
+| Rob McLean |  | <robert.mclea@noaa.gov> | 813-362-3528 |
+
+## Hawaiian Monk Seal Research Program (HMSRP)  
+
+| Name | Role | Email | Phone |
+|------|------|-------|-------|
+| Christy Kozama |  | <christy.kozama@noaa.gov> | 808-359-3738 |
+
+---
+
+# First Week Checklist  
+
+[📄 Print the Orientation Checklist](content/forms/OrientationChecklist.pdf)
+
+Completing the orientation checklist will have you meet the team, tour the IRC, and complete required trainings. Requires that you read [SOP 35-4 Safety Orientation](content/forms/OrientationChecklist) along with the [Cyber Security Responsibilities](https://sites.google.com/noaa.gov/pifsc-intranet/operations-management-and-information-division/its-branch/information-technology-services-its/responsibilities) 
