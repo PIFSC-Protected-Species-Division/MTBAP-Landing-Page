@@ -144,57 +144,121 @@
     "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
   },
   {
-    "objectID": "content/Publications.html",
-    "href": "content/Publications.html",
-    "title": "Publications",
+    "objectID": "content/TeamMembers.html",
+    "href": "content/TeamMembers.html",
+    "title": "TeamMembers",
     "section": "",
-    "text": "Past Media\nLibrary Corner"
-  },
-  {
-    "objectID": "content/Publications.html#sub-pages",
-    "href": "content/Publications.html#sub-pages",
-    "title": "Publications",
-    "section": "",
-    "text": "Past Media\nLibrary Corner"
-  },
-  {
-    "objectID": "content/Forms.html",
-    "href": "content/Forms.html",
-    "title": "Forms",
-    "section": "",
-    "text": "WIP Page\nSea Turtle Processing Checklist\nNest Excavation Form\nSea Turtle Entrapment Log\nBasking Survey Cover Sheet\nBasking Survey Data Sheet\nNight Survey Cover Sheet\nNight Survey Data Sheet",
+    "text": "filler",
     "crumbs": [
-      "Resources",
-      "Forms"
+      "About Us",
+      "Team Members"
     ]
   },
   {
-    "objectID": "content/turtlemedia.html",
-    "href": "content/turtlemedia.html",
-    "title": "Past Media",
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
     "section": "",
-    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle"
+    "text": "Filler",
+    "crumbs": [
+      "Resources",
+      "Onboarding"
+    ]
   },
   {
-    "objectID": "content/turtlemedia.html#noaa-stories",
-    "href": "content/turtlemedia.html#noaa-stories",
-    "title": "Past Media",
+    "objectID": "content/Resources.html",
+    "href": "content/Resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle"
+    "text": "Filler"
   },
   {
-    "objectID": "content/turtlemedia.html#other-media",
-    "href": "content/turtlemedia.html#other-media",
-    "title": "Past Media",
-    "section": "Other Media:",
-    "text": "Other Media:\n\n2025.07.07- 44th International Sea Turtle Symposium\n2024.12.12- If you see a honu with a number, this is what you need to do\n2023.02.02- Have you seen a honu recently? NOAA needs your help counting marked sea turtles\n2022.09.26- Green Sea Turtle: Endangered Animals Spotlight\n2022.09.24- Honu release, year of the limu celebration at Sea Life Park\n2022.05- Hope for Honu: Green Sea Turtles on the Road to Recovery\n2021- Turtle Independence Day\n2020.01.30- Board Talk: Turtle Nesting, Post-Walaka\nImpacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023"
+    "objectID": "content/OutreachMedia.html",
+    "href": "content/OutreachMedia.html",
+    "title": "Outreach and Media",
+    "section": "",
+    "text": "Outreach and media features highlighting our conservation work, public engagement, and collaborative efforts. More news is available at NOAA Fisheries.",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
   },
   {
-    "objectID": "content/team-members.html",
-    "href": "content/team-members.html",
-    "title": "TeamMembers",
-    "section": "",
-    "text": "filler"
+    "objectID": "content/OutreachMedia.html#section",
+    "href": "content/OutreachMedia.html#section",
+    "title": "Outreach and Media",
+    "section": "2025",
+    "text": "2025\n\n\nMonk Seal and Sea Turtle Research and Recovery: A Year in Review\n\n\nMost Sea Turtles Rebounding Worldwide as Conservation Efforts Protect Nests and Habitat, Analysis Finds",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
+  },
+  {
+    "objectID": "content/OutreachMedia.html#section-1",
+    "href": "content/OutreachMedia.html#section-1",
+    "title": "Outreach and Media",
+    "section": "2024",
+    "text": "2024\n\n\nTackling Sea Turtle Bycatch with International Fishing Communities\n\n\nMeet Josefa Muñoz, Ph.D. Student",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
+  },
+  {
+    "objectID": "content/OutreachMedia.html#section-2",
+    "href": "content/OutreachMedia.html#section-2",
+    "title": "Outreach and Media",
+    "section": "2023",
+    "text": "2023\n\n\nCelebrating Sea Turtle Conservation and Recovery Efforts\n\n\nReturn to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
+  },
+  {
+    "objectID": "content/OutreachMedia.html#section-3",
+    "href": "content/OutreachMedia.html#section-3",
+    "title": "Outreach and Media",
+    "section": "2022",
+    "text": "2022\n\n\nHawaiʻi Sea Turtles Are Amazing—from Afar\n\n\nIt’s Time to Act FAST for Turtles\n\n\nNesting, Threats, and Social Behaviors of Hawaiian Hawksbill Sea Turtles",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
+  },
+  {
+    "objectID": "content/OutreachMedia.html#section-4",
+    "href": "content/OutreachMedia.html#section-4",
+    "title": "Outreach and Media",
+    "section": "2021",
+    "text": "2021\n\n\nTurtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n\n\nA How-To Guide for Reporting Potential Marine Wildlife Harassment in Hawaiʻi",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
+  },
+  {
+    "objectID": "content/OutreachMedia.html#section-5",
+    "href": "content/OutreachMedia.html#section-5",
+    "title": "Outreach and Media",
+    "section": "2020",
+    "text": "2020\n\n\nHawksbill Sea Turtles Are Truly Hawaiʻi Locals\n\n\nStudying and Conserving Western Pacific Leatherback Turtles in the Solomon Islands",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
+  },
+  {
+    "objectID": "content/OutreachMedia.html#section-6",
+    "href": "content/OutreachMedia.html#section-6",
+    "title": "Outreach and Media",
+    "section": "2019",
+    "text": "2019\n\n\nA Continuation of Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n\n\nRare Olive Ridley Sea Turtle Nest Discovered on Oʻahu",
+    "crumbs": [
+      "Publications",
+      "Outreach & Media"
+    ]
   },
   {
     "objectID": "content/turtleprojects.html",
@@ -364,110 +428,50 @@
     ]
   },
   {
-    "objectID": "content/OutreachMedia.html",
-    "href": "content/OutreachMedia.html",
-    "title": "Outreach and Media",
+    "objectID": "content/turtlemedia.html",
+    "href": "content/turtlemedia.html",
+    "title": "Past Media",
     "section": "",
-    "text": "Outreach and media features highlighting our conservation work, public engagement, and collaborative efforts. More news is available at NOAA Fisheries.",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
+    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle"
   },
   {
-    "objectID": "content/OutreachMedia.html#section",
-    "href": "content/OutreachMedia.html#section",
-    "title": "Outreach and Media",
-    "section": "2025",
-    "text": "2025\n\n\nMonk Seal and Sea Turtle Research and Recovery: A Year in Review\n\n\nMost Sea Turtles Rebounding Worldwide as Conservation Efforts Protect Nests and Habitat, Analysis Finds",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/OutreachMedia.html#section-1",
-    "href": "content/OutreachMedia.html#section-1",
-    "title": "Outreach and Media",
-    "section": "2024",
-    "text": "2024\n\n\nTackling Sea Turtle Bycatch with International Fishing Communities\n\n\nMeet Josefa Muñoz, Ph.D. Student",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/OutreachMedia.html#section-2",
-    "href": "content/OutreachMedia.html#section-2",
-    "title": "Outreach and Media",
-    "section": "2023",
-    "text": "2023\n\n\nCelebrating Sea Turtle Conservation and Recovery Efforts\n\n\nReturn to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/OutreachMedia.html#section-3",
-    "href": "content/OutreachMedia.html#section-3",
-    "title": "Outreach and Media",
-    "section": "2022",
-    "text": "2022\n\n\nHawaiʻi Sea Turtles Are Amazing—from Afar\n\n\nIt’s Time to Act FAST for Turtles\n\n\nNesting, Threats, and Social Behaviors of Hawaiian Hawksbill Sea Turtles",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/OutreachMedia.html#section-4",
-    "href": "content/OutreachMedia.html#section-4",
-    "title": "Outreach and Media",
-    "section": "2021",
-    "text": "2021\n\n\nTurtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n\n\nA How-To Guide for Reporting Potential Marine Wildlife Harassment in Hawaiʻi",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/OutreachMedia.html#section-5",
-    "href": "content/OutreachMedia.html#section-5",
-    "title": "Outreach and Media",
-    "section": "2020",
-    "text": "2020\n\n\nHawksbill Sea Turtles Are Truly Hawaiʻi Locals\n\n\nStudying and Conserving Western Pacific Leatherback Turtles in the Solomon Islands",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/OutreachMedia.html#section-6",
-    "href": "content/OutreachMedia.html#section-6",
-    "title": "Outreach and Media",
-    "section": "2019",
-    "text": "2019\n\n\nA Continuation of Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n\n\nRare Olive Ridley Sea Turtle Nest Discovered on Oʻahu",
-    "crumbs": [
-      "Publications",
-      "Outreach & Media"
-    ]
-  },
-  {
-    "objectID": "content/Resources.html",
-    "href": "content/Resources.html",
-    "title": "Resources",
+    "objectID": "content/turtlemedia.html#noaa-stories",
+    "href": "content/turtlemedia.html#noaa-stories",
+    "title": "Past Media",
     "section": "",
-    "text": "Filler"
+    "text": "2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.05.08- Punahele: A Green Sea Turtle’s Journey to “Destination Unknown”\n2020.04.10- Saving an Endangered Turtle Population: One Program’s Quest\n2019.06.10- Sea Turtle Week 2019\n2019.05.17- Motherload: The Story of a Fertile Turtle in the Hawaiian Islands\n2018.06.18- Sea Turtles: Is the Future Female?\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi\nGet to Know Your Pacific Islands Endangered Species\nFishing Around Sea Turtles: What to Do If You Accidentally Catch a Turtle"
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/turtlemedia.html#other-media",
+    "href": "content/turtlemedia.html#other-media",
+    "title": "Past Media",
+    "section": "Other Media:",
+    "text": "Other Media:\n\n2025.07.07- 44th International Sea Turtle Symposium\n2024.12.12- If you see a honu with a number, this is what you need to do\n2023.02.02- Have you seen a honu recently? NOAA needs your help counting marked sea turtles\n2022.09.26- Green Sea Turtle: Endangered Animals Spotlight\n2022.09.24- Honu release, year of the limu celebration at Sea Life Park\n2022.05- Hope for Honu: Green Sea Turtles on the Road to Recovery\n2021- Turtle Independence Day\n2020.01.30- Board Talk: Turtle Nesting, Post-Walaka\nImpacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023"
+  },
+  {
+    "objectID": "content/Forms.html",
+    "href": "content/Forms.html",
+    "title": "Forms",
     "section": "",
-    "text": "Filler",
+    "text": "WIP Page\nSea Turtle Processing Checklist\nNest Excavation Form\nSea Turtle Entrapment Log\nBasking Survey Cover Sheet\nBasking Survey Data Sheet\nNight Survey Cover Sheet\nNight Survey Data Sheet",
     "crumbs": [
       "Resources",
-      "Onboarding"
+      "Forms"
     ]
+  },
+  {
+    "objectID": "content/Publications.html",
+    "href": "content/Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Past Media\nLibrary Corner"
+  },
+  {
+    "objectID": "content/Publications.html#sub-pages",
+    "href": "content/Publications.html#sub-pages",
+    "title": "Publications",
+    "section": "",
+    "text": "Past Media\nLibrary Corner"
   },
   {
     "objectID": "content/Software.html",
