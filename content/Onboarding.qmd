@@ -1,7 +1,6 @@
 ---
 title: "Onboarding"
-format:
-  html:
+format: html
 ---
 
 # Welcome  
