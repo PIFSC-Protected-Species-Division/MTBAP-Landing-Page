@@ -1,6 +1,8 @@
 ---
-title: "TeamMembers"
+title: "Team Members"
 format: html
 ---
 
-filler
+# Team Members
+
+This page houses the Marine Turtle Biology and Assessment Program team. It serves as a reference for staff and partners to identify roles, and points of contact.
