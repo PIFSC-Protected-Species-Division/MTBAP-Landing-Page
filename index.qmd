@@ -27,8 +27,8 @@ Our primary goal is to understand, assess, and monitor sea turtle populations in
 
 We achieve this by:  
 
-- Conducting field and laboratory research** to investigate sea turtle health, ecology, and life history  
-- Designing geospatial models** that integrate population, ecological, satellite, and climate data  
+- Conducting field and laboratory research to investigate sea turtle health, ecology, and life history  
+- Designing geospatial models that integrate population, ecological, satellite, and climate data  
 - Providing data streams, research infrastructure, and scientific leadership across the Pacific  
 
 ---

@@ -1,44 +1,32 @@
 ---
-title: "SOPs"
+title: "Standard Operating Procedures"
 format: html
 ---
 
-WIP PAGE
+# Field Protocols
+- [Honu Count Data Protocol](https://docs.google.com/document/d/1uZfmYNalu5zGVWvRlkEi2rBLu58McFhFzK4mxDFt-GA/edit?tab=t.0)  
+- [Marine Turtle Nest Probing Protocols](https://docs.google.com/document/d/1uwN9JQ_nuuXtkl_eFIMoW5zIkW87yBf-/edit)  
+- [Marine Turtle Excavation Protocols](https://docs.google.com/document/d/143xNUouMSboRwuWR9Vmy5i2DUN36E_ELpjDeoYn7ISA/edit?tab=t.0)  
+- [Instructions for Turtle Capture Box](https://docs.google.com/document/d/1aUnTikSxbZ3MWk6nviODJNt_OHIUq1jo/edit)  
+- [2025 Marine Turtle Field Research Manual](https://docs.google.com/document/d/1Y872yJlu62dvjkCeobu9P0QEPV0BhpBKfdPuW4Ll49k/edit?tab=t.0)  
 
-[Honu Count Data Protocol](https://docs.google.com/document/d/1uZfmYNalu5zGVWvRlkEi2rBLu58McFhFzK4mxDFt-GA/edit?tab=t.0)
+# Lab Protocols
+- [Blood Collection](https://docs.google.com/document/d/175WWs7nJCbN4vPVtJ-kJ28JzwAph7M1LrqqlMm62uHs/edit?tab=t.0)  
+- [Processing Humeri](https://docs.google.com/document/d/1RdzdFwgW_9HrDVUfZViKBmYVifkIoGUm/edit)  
+- [Tumor Scoring](https://docs.google.com/document/d/1eJ196ENHRCdLi2xSscxfbS17hG-rcFHxjAcqvbrW0so/edit?tab=t.0)  
+- [Laparoscopy](https://docs.google.com/document/d/1qIq40jDvs2qIT-xPicYdL1NhyD2X-Qfvg-DyzYpW4uw/edit?tab=t.0)  
+- [Facial Recognition](https://docs.google.com/document/d/1l8qrhz6Bk3yL9UdzOML5Kq6yWj2Uctlq/edit)  
 
-[Database Nesting](https://docs.google.com/document/d/1gjnaHegDWCLaDhuljlOvvn8bk-Pvmrww6oEOBIcF_ZQ/edit?tab=t.0)
+# Stranding & Rescue Protocols
+- [Sea Turtle Stranding Communication & Coordination Protocol](https://docs.google.com/document/d/1Xc5bxxBqIzvRwAaNPlyPkz5i4YcZ8mNkUUPG1o1zEfg/edit?tab=t.0)  
+- [Sea Turtle Stranding Intake Protocol](https://docs.google.com/document/d/16YFKdGMvC1_uAe6_Mt_uUjqMjciuFYJ3b35NssjJBBw/edit?tab=t.0)  
+- [Sea Turtle Necropsy Coordination](https://docs.google.com/document/d/1fibIFvzBLYmghDQt6agLeEwZykzbRtR3rXSlhFW8hjg/edit?tab=t.0)  
 
-[Marine Turtle Nest Probing Protocols](https://docs.google.com/document/d/1uwN9JQ_nuuXtkl_eFIMoW5zIkW87yBf-/edit)
+# Data & Analysis Protocols
+- [Database Nesting](https://docs.google.com/document/d/1gjnaHegDWCLaDhuljlOvvn8bk-Pvmrww6oEOBIcF_ZQ/edit?tab=t.0)  
+- [Entering Excavation Data in MTBAP Database](https://docs.google.com/document/d/1HkDlQpIXiYrrlFMPkxKBbmK4kpSplZnyj4NmGKfPXOw/edit?tab=t.0#heading=h.gk2n7gmqemro)  
+- [ACDSee Photo Processing & Organization](https://docs.google.com/document/d/1he1RJR_QbCZ0yHOzgHJVohnfpbVu1U6UOkoFP6MDKlM/edit?tab=t.0)  
+- [Dataloggers](https://docs.google.com/document/d/1ynFezkG-cvH0R0TGrZk1fzvn9kIorCsAH4-W8IstSOU/edit?tab=t.0)  
 
-[Laparoscopy](https://docs.google.com/document/d/1qIq40jDvs2qIT-xPicYdL1NhyD2X-Qfvg-DyzYpW4uw/edit?tab=t.0)
-
-[Tumor Scoring](https://docs.google.com/document/d/1eJ196ENHRCdLi2xSscxfbS17hG-rcFHxjAcqvbrW0so/edit?tab=t.0)
-
-[Marine Turtle Hatchling Sampling Protocols](https://docs.google.com/document/d/1nR6vaJA1jI6AH8qn3dMnAjuN3gv1JOB3/edit)
-
-[2025 Marine Turtle Field Research Manual](https://docs.google.com/document/d/1Y872yJlu62dvjkCeobu9P0QEPV0BhpBKfdPuW4Ll49k/edit?tab=t.0)
-
-[Sea Turtle Necorpsy Coordination](https://docs.google.com/document/d/1fibIFvzBLYmghDQt6agLeEwZykzbRtR3rXSlhFW8hjg/edit?tab=t.0)
-
-[ACDSee Photo Processing & Organization](https://docs.google.com/document/d/1he1RJR_QbCZ0yHOzgHJVohnfpbVu1U6UOkoFP6MDKlM/edit?tab=t.0)
-
-[Instructions for Turtle Capture Box](https://docs.google.com/document/d/1aUnTikSxbZ3MWk6nviODJNt_OHIUq1jo/edit)
-
-[Sea Turtle Stranding Communication & Coordination Protocol](https://docs.google.com/document/d/1Xc5bxxBqIzvRwAaNPlyPkz5i4YcZ8mNkUUPG1o1zEfg/edit?tab=t.0)
-
-[Entering Excavation data in MTBAP Database](https://docs.google.com/document/d/1HkDlQpIXiYrrlFMPkxKBbmK4kpSplZnyj4NmGKfPXOw/edit?tab=t.0#heading=h.gk2n7gmqemro)
-
-[Processing Humeri](https://docs.google.com/document/d/1RdzdFwgW_9HrDVUfZViKBmYVifkIoGUm/edit)
-
-[Marine Turtle Excavation Protocols](https://docs.google.com/document/d/143xNUouMSboRwuWR9Vmy5i2DUN36E_ELpjDeoYn7ISA/edit?tab=t.0)
-
-[Blood Collection](https://docs.google.com/document/d/175WWs7nJCbN4vPVtJ-kJ28JzwAph7M1LrqqlMm62uHs/edit?tab=t.0)
-
-[Facial Recognition](https://docs.google.com/document/d/1l8qrhz6Bk3yL9UdzOML5Kq6yWj2Uctlq/edit)
-
-[Dataloggers](https://docs.google.com/document/d/1ynFezkG-cvH0R0TGrZk1fzvn9kIorCsAH4-W8IstSOU/edit?tab=t.0)
-
-[Sea Turtle Stranding Intake Protocol](https://docs.google.com/document/d/16YFKdGMvC1_uAe6_Mt_uUjqMjciuFYJ3b35NssjJBBw/edit?tab=t.0)
 
 
