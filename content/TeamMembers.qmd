@@ -5,7 +5,7 @@ format: html
 
 # Team Members  
 
-Meet the Marine Turtle Biology and Assessment Program (MTBAP) team.  
+Meet the Marine Turtle Biology and Assessment Program (MTBAP) team. **WIP PAGE**
 
 ::: {.grid}
 
@@ -25,7 +25,7 @@ Shawn is a biologist in the Marine Turtle Biology and Assessment Program at NOAA
 
 ::: {.card}
 **Dr. Camryn Allen**  
-*Research Biologist*  
+*Wildlife Endocrinologist*  
 
 Dr. Allen is a wildlife endocrinologist who uses molecular approaches to address demographic and habitat utilization questions critical for conservation of endangered wildlife populations. She is a research scientist with the Joint Institute for Marine and Atmospheric Research at NOAA Fisheries’ Pacific Islands Fisheries Science Center. Dr. Allen developed the sea turtle endocrinology laboratory at PIFSC to examine sex ratios of turtles at foraging grounds and also uses stable isotope analysis to understand habitat use, connectivity, and human impacts on Pacific sea turtle populations.
 :::
