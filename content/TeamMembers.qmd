@@ -3,8 +3,6 @@ title: "Team Members"
 format: html
 ---
 
-# Team Members  
-
 Meet the Marine Turtle Biology and Assessment Program (MTBAP) team. **WIP PAGE**
 
 ::: {.grid}

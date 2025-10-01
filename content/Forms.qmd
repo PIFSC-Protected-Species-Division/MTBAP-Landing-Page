@@ -1,9 +1,9 @@
 ---
-title: "Forms"
+title: "Forms and Data Sheets"
 format: html
 ---
 
-This page houses commonly used forms.
+This page houses commonly used forms.*NOAA Access Only*
 
 - [Basking Survey Cover Sheet](https://docs.google.com/document/d/1UZIsjv3rI4qd_TclYet9ZPMFXnHuMszWqG3vnMzwra8/edit?tab=t.0)  
 - [Basking Survey Data Sheet](https://docs.google.com/document/d/1J-Um3wfB4A6XYY_gzsb9MmQwIcYxczvWQGlw0zvw0Bg/edit?tab=t.0)  
@@ -14,7 +14,8 @@ This page houses commonly used forms.
 - [Sea Turtle Atoll Count Form](https://docs.google.com/document/d/1DNQMQGT_w5aRygN7-fNP3RPujWUVY2WzmwzW2w8f2bc/edit?tab=t.0)  
 - [Sea Turtle Entrapment Log](https://docs.google.com/document/d/1aFVjKrYYDGwZAv_6u5iYmdqF8E8FydtdFtl8RKiDbpI/edit?tab=t.0)  
 - [Sea Turtle Processing Checklist](https://docs.google.com/document/d/1JJspUFMVNchM-Dr4ZfKGHNaqRXz38FWw_16_AC2_9K4/edit?tab=t.0)  
-- [Stranding Release and Necropsy Form](https://docs.google.com/document/d/1eKQkAw1HcrONytJvgILUwqPCXgm-NB394U4oR05RsFw/edit?tab=t.0)  
+- [Stranding Release and Necropsy Form](https://docs.google.com/document/d/1eKQkAw1HcrONytJvgILUwqPCXgm-NB394U4oR05RsFw/edit?tab=t.0) 
+- [Sea Turtle Necorpsy Manual for Biologists in Remote Refuges](https://www.widecast.org/Resources/Docs/Work_2000_Sea_Turtle_Necropsy_Manual_ENG.pdf)
 
 
 

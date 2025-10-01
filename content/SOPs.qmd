@@ -3,7 +3,7 @@ title: "Standard Operating Procedures"
 format: html
 ---
 
-Protocols and guidelines of the Marine Turtle Biology and Assessment Program.
+Protocols and guidelines of the Marine Turtle Biology and Assessment Program.*NOAA Access Only*
 
 # Field Protocols
 - [Blood Collection](https://docs.google.com/document/d/175WWs7nJCbN4vPVtJ-kJ28JzwAph7M1LrqqlMm62uHs/edit?tab=t.0)  
