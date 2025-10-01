@@ -5,6 +5,17 @@ format: html
 
 Technical reports produced by MTBAP and partner agencies documenting field surveys, tagging programs, and conservation assessments. [NOAA Institutional Repository](https://repository.library.noaa.gov/)
 
+## 2025
+::: {.grid}
+
+::: {.card}
+[NOAA Memorandum (2025)](/content/forms/noaamemorandum.pdf){target="_blank" rel="noopener"}  
+<small>Marine Turtle Biology and Assessment Program. Internal NOAA Memorandum, 2025.</small><br>
+[Download PDF ⬇](/content/forms/noaamemorandum.pdf){download}
+:::
+
+:::
+
 ## 2024
 ::: {.grid}
 
@@ -13,82 +24,6 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 <small>Alexander R. Gaos, James W. Staman, Summer L. Martin. NOAA Technical Report 2024</small>
 :::
 
-::: {.card}
-[2013–2023 final report: Sea turtle surveys and tracking in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/61493)  
-<small>Alexander R. Gaos, Summer L. Martin, Camryn Allen. NOAA Technical Report 2024</small>
-:::
-
-::: {.card}
-[Marine Turtle Biology and Assessment Program final programmatic environmental assessment](https://repository.library.noaa.gov/view/noaa/60796)  
-<small>Camryn Allen, Lauren McCue, Claire Coppenrath. NOAA Technical Report 2024</small>
-:::
-
-:::
-
-## 2020
-::: {.grid}
-
-::: {.card}
-[Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/23886)  
-<small>Alexander R. Gaos, Summer L. Martin, T. Todd Jones. NOAA Technical Report 2020</small>
-:::
-
-::: {.card}
-[Update to assessing the population-level impacts of North Pacific loggerhead and western Pacific leatherback turtle interactions, including the Hawaiʻi-based deep-set and American Samoa-based longline fisheries](https://repository.library.noaa.gov/view/noaa/24251)  
-<small>Summer L. Martin, Zachary Siders, Tomoharu Eguchi. NOAA Technical Report 2020</small>
-:::
-
-::: {.card}
-[Sea turtle tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/33294)  
-<small>Alexander R. Gaos, Summer L. Martin, T. Todd Jones. NOAA Technical Report 2020</small>
-:::
-
-:::
-
-## 2019
-::: {.grid}
-
-::: {.card}
-[Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/21448)  
-<small>Summer L. Martin, Alexander R. Gaos, T. Todd Jones. NOAA Technical Report 2019</small>
-:::
-
-:::
-
-## 2018
-::: {.grid}
-
-::: {.card}
-[Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/17281)  
-<small>Summer L. Martin, T. Todd Jones, Alexander R. Gaos. NOAA Technical Report 2018</small>
-:::
-
-:::
-
-## 2017
-::: {.grid}
-
-::: {.card}
-[Marine turtle surveys and captures in the Mariana Islands](https://repository.library.noaa.gov/view/noaa/18742)  
-<small>Summer L. Martin, T. Todd Jones. NOAA Technical Report 2017</small>
-:::
-
-::: {.card}
-[Sea turtle tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/15114)  
-<small>Summer L. Martin, T. Todd Jones. NOAA Technical Report 2017</small>
-:::
-
-:::
-
-## 2015
-::: {.grid}
-
-::: {.card}
-[Sea turtle tagging in the Mariana Islands Range Complex (MIRC) progress report](https://repository.library.noaa.gov/view/noaa/12714)  
-<small>T. Todd Jones, Summer L. Martin, Kyle S. Van Houtan. NOAA Technical Report 2015</small>
-:::
-
-:::
 
 
 

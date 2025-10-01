@@ -9,6 +9,11 @@ This page highlights peer-reviewed scientific articles authored by our team and 
 ::: {.grid}
 
 ::: {.card}
+[A global sea turtle climate vulnerability assessment](https://www.sciencedirect.com/science/article/pii/S1470160X25010751)  
+<small>Matthew D. Lettrich, Dorothy M. Dick, Christina C. Fahy, Roger B. Griffis, Heather L. Haas, T. Todd Jones, Irene K. Kelly, Dennis Klemm, Ann Marie Lauritsen, Christopher R. Sasso, Barbara Schroeder, Jeffrey A. Seminoff, Carrie M. Upite, Camryn Allen, Paolo Casale, Mariana M.P.B. Fuentes, Alexander Gaos, Mark Hamann, Lauren Kurpita, Michael J. Liles, Jeanette Wyneken. *Science of The Total Environment* October 2025</small>
+:::
+
+::: {.card}
 [Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings](https://www.sciencedirect.com/science/article/pii/S0025326X25003443)  
 <small>Marthe A. Høiberg, Jan Borgelt, Philip S. Mostert, Shawn K. Murakawa, Summer L. Martin, et al. *Marine Pollution Bulletin* 2025</small>
 :::
@@ -189,6 +194,7 @@ This page highlights peer-reviewed scientific articles authored by our team and 
 :::
 
 :::
+
 
 
 
