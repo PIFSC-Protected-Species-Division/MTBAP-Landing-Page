@@ -9,7 +9,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 ::: {.grid}
 
 ::: {.card}
-[NOAA Memorandum (2025)](/content/forms/noaamemorandum.pdf){target="_blank" rel="noopener"}  
+[Incorporating Uncertainty in Maturation and Latest Fishery Takes](/content/forms/noaamemorandum.pdf){target="_blank" rel="noopener"}  
 <small>Marine Turtle Biology and Assessment Program. NOAA Memorandum 2025</small>
 :::
 
