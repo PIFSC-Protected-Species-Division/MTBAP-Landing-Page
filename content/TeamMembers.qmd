@@ -10,6 +10,7 @@ Meet the Marine Turtle Biology and Assessment Program (MTBAP) team.
 ::: {.card}
 **Dr. Summer Martin** 
 *Program Lead*
+
 ![](images/summer_cropped.jpg){.team-headshot}  
 
 Dr. Martin conducts ecological research to support marine turtle population assessments and sustainable fisheries management. Her current research includes modeling spatial habitat use from animal-borne instruments, modeling climate-related impacts on marine turtle populations, quantifying fisheries bycatch interactions, and analyzing programmatic and archived data to understand habitat use and migration patterns. She conducts field research throughout the Pacific Islands Region and serves as Chief Scientist on research missions. Dr. Martin also contributes to population assessments, species status reviews, and critical habitat designations under the Endangered Species Act (ESA).
@@ -17,7 +18,8 @@ Dr. Martin conducts ecological research to support marine turtle population asse
 
 ::: {.card}
 **Shawn Murakawa**  
-*Research Biologist*  
+*Research Biologist*
+![](images/shawn_cropped.jpg){.team-headshot}
 
 Shawn is a biologist in the Marine Turtle Biology and Assessment Program at NOAA’s Pacific Islands Fisheries Science Center. She leads nesting and in-water survey research at Rose Atoll, manages the skeletochronology laboratory, and studies growth rates and aging of sea turtles. Born and raised on Oʻahu, Shawn earned her B.S. and M.S. in Animal Sciences from the University of Hawaiʻi at Mānoa. She has participated in expeditions to the Northwestern Hawaiian Islands and American Samoa and supported stranding response during the Deepwater Horizon oil spill. Outside of NOAA, she volunteers with Nā Kama Kai and Kapiʻolani Medical Center, and enjoys fishing, family time, and raising succulents.
 :::
@@ -32,7 +34,8 @@ Dr. Allen is a wildlife endocrinologist who uses molecular approaches to address
 
 ::: {.card}
 **Marylou Staman**  
-*Marine Biologist*  
+*Marine Biologist*
+![](images/marylou_cropped.png){.team-headshot}
 
 *(Placeholder — bio to be added.)*
 :::
@@ -40,6 +43,7 @@ Dr. Allen is a wildlife endocrinologist who uses molecular approaches to address
 ::: {.card}
 **Dr. Alexander R. Gaos**  
 *Research Ecologist*  
+![](images/gaos_cropped.jpg){.team-headshot}
 
 Dr. Gaos is a Research Ecologist with MTBAP at NOAA’s Pacific Islands Fisheries Science Center. He specializes in deploying satellite telemetry, applying molecular genetic tools, and developing field programs across the Pacific. He serves as Vice-Chair of the Eastern Pacific Region for the IUCN Marine Turtle Specialist Group, Travel Grant Chair for the International Sea Turtle Society, and Co-Founder of the Eastern Pacific Hawksbill Initiative (ICAPO). With over a decade of experience, he has managed nesting beach surveys, in-water monitoring, and fisheries bycatch reduction programs across the Pacific. Dr. Gaos earned his M.S. in Biology from San Diego State University and his Ph.D. in Ecology through the SDSU/UC Davis Joint Doctoral Program.
 :::
