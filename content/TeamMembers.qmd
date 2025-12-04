@@ -9,6 +9,7 @@ Meet the Marine Turtle Biology and Assessment Program (MTBAP) team.
 
 ::: {.card}
 **Dr. Summer Martin**  
+![](images/summer_cropped.jpg){.team-headshot}  
 *Program Lead*  
 
 Dr. Martin conducts ecological research to support marine turtle population assessments and sustainable fisheries management. Her current research includes modeling spatial habitat use from animal-borne instruments, modeling climate-related impacts on marine turtle populations, quantifying fisheries bycatch interactions, and analyzing programmatic and archived data to understand habitat use and migration patterns. She conducts field research throughout the Pacific Islands Region and serves as Chief Scientist on research missions. Dr. Martin also contributes to population assessments, species status reviews, and critical habitat designations under the Endangered Species Act (ESA).
