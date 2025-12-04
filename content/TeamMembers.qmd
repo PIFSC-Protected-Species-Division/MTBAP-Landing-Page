@@ -3,7 +3,7 @@ title: "Team Members"
 format: html
 ---
 
-Meet the Marine Turtle Biology and Assessment Program (MTBAP) team. **WIP PAGE**
+Meet the Marine Turtle Biology and Assessment Program (MTBAP) team.
 
 ::: {.grid}
 
@@ -44,7 +44,7 @@ Dr. Gaos is a Research Ecologist with MTBAP at NOAA’s Pacific Islands Fisherie
 
 ::: {.card}
 **Jan-Willem Staman**  
-*Marine Biologist*  
+*Biological Science Technician*  
 
 Jan Willem Staman is a Biological Science Technician with MTBAP. He leads the MTBAP stranding response network across the Main Hawaiian Islands and organizes and leads in-water research missions on Oahu, Guam, and the Northern Marianas. When not in the field Jan Willem works on data validation, necropsies, and sample archiving. Where possible, he also supports other Protected Species Programs and the Ecosystems Science Division by conducting fish surveys throughout the Pacific Islands Region.
 :::

@@ -12,7 +12,7 @@ We're excited to have you join us. This page will help you get oriented. *NOAA A
 
 # First Week Checklist  
 
-1. [📄 Print the Orientation Checklist](/content/forms/OrientationChecklist.pdf)  
+1. [Print the Orientation Checklist](/content/forms/OrientationChecklist.pdf)  
    - This will guide you through meeting the team, touring the IRC, and completing required trainings.  
 
 2. Read [SOP 35-4 Safety Orientation](/content/forms/SafetyOrientation.pdf)  
