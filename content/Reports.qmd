@@ -20,7 +20,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Sea turtle surveys and satellite tracking in the Naval Defense Sea Area (Pearl Harbor), Oʻahu, Hawaiʻi, United States](https://repository.library.noaa.gov/view/noaa/66118)  
-<small>Alexander R. Gaos, James W. Staman, Summer L. Martin. NOAA Technical Report 2024</small>
+<small>Alexander R. Gaos, Jan W. Staman, Summer L. Martin. NOAA Technical Report 2024</small>
 :::
 
 ::: {.card}
