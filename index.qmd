@@ -82,7 +82,7 @@ Through rescue efforts, we not only save individual turtles but also collect val
 
 Partnerships are a fundamental component of our work and essential to the success of sea turtle research throughout the Pacific.
 
-::: {.grid}
+::: {.grid .partners-grid}
 
 ::: {.card}
 ### Federal & NOAA
@@ -93,7 +93,7 @@ Partnerships are a fundamental component of our work and essential to the succes
 
 ::: {.card}
 ### State and Territorial
-- Division of Aquatic Resources (DAR)
+- CNMI Division of Aquatic Resources (DAR)
 - Guam Department of Agriculture, Division of Aquatic & Wildlife Resources (DAWR)
 - CNMI Department of Lands and Natural Resources (DLNR)
 - Guam Port Police
@@ -116,14 +116,14 @@ Partnerships are a fundamental component of our work and essential to the succes
 :::
 
 ::: {.card}
-### Non-Profit & Community Organizations
+### Non-Profit & Community
 - Maui Ocean Center Marine Institute (MOCMI)
 - Hawaiʻi Marine Animal Response (HMAR)
 - Mālama i nā Honu
 - Hawaiʻi Island Hawksbill Project
 :::
 
-:::  
+:::
 
 ---
 
