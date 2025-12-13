@@ -80,16 +80,50 @@ Through rescue efforts, we not only save individual turtles but also collect val
 
 # Partnerships
 
-Partnerships are a fundamental component of our work and essential to the success of sea turtle research throughout the Pacific.  
+Partnerships are a fundamental component of our work and essential to the success of sea turtle research throughout the Pacific.
 
-We collaborate with:  
+::: {.grid}
 
-- U.S. federal and state agencies  
-- Local non-profits and community groups  
-- Educational and cultural organizations  
-- International partners and regional networks  
+::: {.card}
+### Federal & NOAA
+- Pacific Islands Regional Office (PIRO)
+- Cooperative Institute for Marine and Atmospheric Research (CIMAR)
+- U.S. Fish and Wildlife Service (USFWS)
+:::
 
-These relationships strengthen conservation outcomes and extend the reach of our science.  
+::: {.card}
+### State and Territorial
+- Division of Aquatic Resources (DAR)
+- Guam Department of Agriculture, Division of Aquatic & Wildlife Resources (DAWR)
+- CNMI Department of Lands and Natural Resources (DLNR)
+- Guam Port Police
+:::
+
+::: {.card}
+### Department of Defense
+- NAVFAC Marianas
+- NAVFAC Hawaiʻi
+- Naval Base Guam
+- Marine Corps Base Hawaiʻi
+:::
+
+::: {.card}
+### Educational Institutions
+- University of Hawaiʻi
+- Hawaiʻi Pacific University
+- Hawaiʻi Preparatory Academy
+- The University of the South Pacific
+:::
+
+::: {.card}
+### Non-Profit & Community Organizations
+- Maui Ocean Center Marine Institute (MOCMI)
+- Hawaiʻi Marine Animal Response (HMAR)
+- Mālama i nā Honu
+- Hawaiʻi Island Hawksbill Project
+:::
+
+:::  
 
 ---
 
