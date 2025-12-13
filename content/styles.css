@@ -1,117 +1,292 @@
-/* ============================
-   NOAA-Inspired Global Styles
-   ============================ */
+/* =========================================================
+   MTBAP / NOAA-Inspired Site Styles (Quarto + Bootstrap)
+   Clean, responsive, consistent cards + grids + typography
+   ========================================================= */
 
-/* Base typography */
-body, p, h1, h2, h3, h4, h5, h6 {
+/* -------------------------
+   Theme variables
+   ------------------------- */
+:root{
+  --noaa-deep: #004466;      /* deep ocean blue */
+  --noaa-accent: #0077aa;    /* NOAA accent blue */
+  --noaa-sky: #66c2ff;       /* hover/light accent */
+  --bg: #f0f8ff;             /* very light blue background */
+  --text: #004466;
+  --muted: #5b6b78;
+  --card-bg: #ffffff;
+  --border: rgba(0,0,0,0.10);
+  --shadow: 0 2px 10px rgba(0,0,0,0.08);
+  --shadow-hover: 0 8px 20px rgba(0,0,0,0.12);
+  --radius: 14px;
+  --gap: 1.25rem;
+}
+
+/* -------------------------
+   Base typography & page
+   ------------------------- */
+html, body{
+  height: 100%;
+}
+
+body{
   font-family: "Helvetica Neue", Arial, sans-serif;
-  color: #004466;      /* dark ocean blue text */
-  line-height: 1.6;
+  color: var(--text);
+  line-height: 1.65;
+  background-color: var(--bg);
   margin: 0;
-  padding: 0;
-  background-color: #f0f8ff; /* very light blue background */
 }
 
-/* Links */
-a {
-  color: #0077aa;       /* NOAA blue accent */
+/* Keep headings clean + consistent */
+h1, h2, h3, h4, h5, h6{
+  color: var(--noaa-deep);
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 0.9rem 0 0.75rem;
+}
+
+p{
+  margin: 0 0 1rem;
+  color: var(--text);
+}
+
+/* Slightly soften “muted” text */
+small, .text-muted{
+  color: var(--muted) !important;
+}
+
+/* Section spacing: Quarto often uses H2 as major sections */
+h2{
+  margin-top: 2.5rem;
+}
+
+/* -------------------------
+   Links
+   ------------------------- */
+a{
+  color: var(--noaa-accent);
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 700;
 }
 
-a:hover {
+a:hover{
+  color: var(--noaa-deep);
   text-decoration: underline;
-  color: #004466;
+  text-underline-offset: 2px;
 }
 
-/* ============================
-   Cosmo-Compatible Header & Footer Overrides
-   ============================ */
-
-/* Header override */
-header.navbar, header.navbar .navbar-brand {
-  background-color: #004466 !important; /* deep ocean blue */
+/* -------------------------
+   Navbar / Header (Cosmo-compatible)
+   ------------------------- */
+header.navbar,
+header.navbar .navbar-brand,
+.navbar,
+.navbar .navbar-brand{
+  background-color: var(--noaa-deep) !important;
   color: #fff !important;
 }
 
-/* Footer override */
-footer.q-footer {
-  background-color: #004466 !important;
+.navbar .nav-link{
+  color: rgba(255,255,255,0.90) !important;
+  font-weight: 600;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus{
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* -------------------------
+   Footer (Quarto)
+   ------------------------- */
+footer.q-footer{
+  background-color: var(--noaa-deep) !important;
   color: #fff !important;
   text-align: center;
-  padding: 1rem 2rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 1rem 1.5rem;
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.08);
 }
 
-/* Footer links */
-footer.q-footer a {
+footer.q-footer a{
   color: #fff !important;
   margin: 0 0.5rem;
 }
 
-footer.q-footer a:hover {
-  color: #66c2ff !important; /* lighter blue on hover */
+footer.q-footer a:hover{
+  color: var(--noaa-sky) !important;
   text-decoration: underline;
 }
 
-/* Optional small footer text */
-footer.q-footer small {
+footer.q-footer small{
   display: block;
-  margin-top: 0.5rem;
-  color: #f0f0f0;
+  margin-top: 0.4rem;
+  color: rgba(255,255,255,0.85) !important;
 }
 
-/* ============================
-   Cards & Content Boxes
-   ============================ */
-.card {
-  background-color: #fff;
-  padding: 1rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+/* -------------------------
+   Images + captions
+   ------------------------- */
+img{
+  max-width: 100%;
+  height: auto;
 }
 
-.card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-/* Grid layout */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-bottom: 2rem;
-}
-
-/* ============================
-   Section Spacing
-   ============================ */
-h2 {
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
-}
-
-/* ============================
-   Metadata Styling
-   ============================ */
-.card small {
+/* Quarto figure captions */
+.figure-caption,
+figcaption{
+  color: #555;
+  font-size: 0.92rem;
   font-style: italic;
-  color: #666; /* muted gray */
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* For your manual caption class */
+.image-caption{
+  color: #555;
+  font-size: 0.92rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* -------------------------
+   Cards
+   Works with Quarto ::: {.card} blocks
+   ------------------------- */
+.card{
+  background-color: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.05rem;
+  box-shadow: var(--shadow);
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+
+.card:hover{
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+  border-color: rgba(0,0,0,0.14);
+}
+
+/* Card small metadata */
+.card small{
+  font-style: italic;
+  color: var(--muted);
   display: block;
   margin-top: 0.25rem;
 }
 
-/* ============================
-   Image Caption Styling
-   ============================ */
-.image-caption {
-  color: #555555;      /* medium grey */
-  font-size: 0.9em;    /* slightly smaller than body text */
-  font-style: italic;  /* keep italic look */
-  text-align: center;  /* centered under image */
-  margin-top: 0.5rem;
+/* Tighten lists inside cards so they look intentional */
+.card ul{
+  margin: 0.25rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.card li{
+  margin: 0.25rem 0;
+  line-height: 1.28;
+}
+
+/* -------------------------
+   Grid layout
+   Works with Quarto ::: {.grid} blocks
+   ------------------------- */
+.grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--gap);
+  margin: 0.75rem 0 2rem;
+  align-items: stretch;
+}
+
+/* Make grid cards equal height */
+.grid > .card{
+  height: 100%;
+}
+
+/* -------------------------
+   Partnerships polish (optional class on the grid)
+   Use: ::: {.grid .partners-grid}
+   ------------------------- */
+.partners-grid{
+  gap: 1.15rem;
+  margin-top: 0.75rem;
+}
+
+.partners-grid .card h3{
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.2px;
+}
+
+/* -------------------------
+   Callouts (Quarto)
+   ------------------------- */
+.callout{
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.callout-note{
+  background: rgba(102, 194, 255, 0.12);
+}
+
+/* Improve callout title spacing */
+.callout-title{
+  font-weight: 800;
+  color: var(--noaa-deep);
+}
+
+/* -------------------------
+   Columns (Quarto)
+   Helps prevent odd overlaps
+   ------------------------- */
+.columns{
+  margin: 0.5rem 0 1.5rem;
+}
+
+/* -------------------------
+   Tables (basic)
+   ------------------------- */
+table{
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+th, td{
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+th{
+  background: rgba(0, 68, 102, 0.08);
+  color: var(--noaa-deep);
+  text-align: left;
+}
+
+/* -------------------------
+   Content width / readability tweaks
+   ------------------------- */
+/* Quarto’s main content container varies by theme; this is safe */
+main, .content, .quarto-container{
+  scroll-margin-top: 90px; /* nicer anchor jumps with fixed nav */
+}
+
+/* -------------------------
+   Responsive tweaks
+   ------------------------- */
+@media (max-width: 576px){
+  h1{ font-size: 1.8rem; }
+  h2{ font-size: 1.35rem; margin-top: 2rem; }
+  .card{ padding: 0.95rem; }
+  .grid{ gap: 1rem; }
 }
 
 
