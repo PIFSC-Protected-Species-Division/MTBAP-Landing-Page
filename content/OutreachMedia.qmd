@@ -26,6 +26,10 @@ Outreach and media features highlighting our conservation work, public engagemen
 :::
 
 ::: {.card}
+[Meet Alphina Liusamoa, Sea Turtle Biologist in American Samoa](https://www.fisheries.noaa.gov/feature-story/meet-alphina-liusamoa-sea-turtle-biologist-american-samoa)
+:::
+
+::: {.card}
 [Meet Josefa Muñoz, Ph.D. Student](https://www.fisheries.noaa.gov/feature-story/meet-josefa-munoz-phd-student)
 :::
 
