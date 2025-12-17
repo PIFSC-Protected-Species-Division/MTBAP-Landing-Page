@@ -87,8 +87,8 @@ Partnerships are a fundamental component of our work and essential to the succes
 ::: {.card}
 ### Federal & NOAA
 - Pacific Islands Regional Office (PIRO)
-- Cooperative Institute for Marine and Atmospheric Research (CIMAR)
 - U.S. Fish and Wildlife Service (USFWS)
+- U.S. Geological Survey (USGS)
 :::
 
 ::: {.card}
@@ -97,6 +97,9 @@ Partnerships are a fundamental component of our work and essential to the succes
 - Guam Department of Agriculture, Division of Aquatic & Wildlife Resources (DAWR)
 - CNMI Department of Lands and Natural Resources (DLNR)
 - Guam Port Police
+- Papahānaumokuākea Marine National Monument Monument Management Board (PMNM MMB)
+- Office of Hawaiian Affairs (OHA)
+- American Samoa Department of Marine and Wildlife Resources (DMWR)
 :::
 
 ::: {.card}
@@ -104,23 +107,31 @@ Partnerships are a fundamental component of our work and essential to the succes
 - NAVFAC Marianas
 - NAVFAC Hawaiʻi
 - Naval Base Guam
+- Joint Base Pearl Harbor Hickam
 - Marine Corps Base Hawaiʻi
+- Andersen Airforce Base
 :::
 
 ::: {.card}
 ### Educational Institutions
-- University of Hawaiʻi
+- The University of the South Pacific
+- University of Hawaiʻi (CIMAR)
+- University of Guam
 - Hawaiʻi Pacific University
 - Hawaiʻi Preparatory Academy
-- The University of the South Pacific
+- University of Florida
+- University of Massachusetts Amherst
 :::
 
 ::: {.card}
 ### Non-Profit & Community
+- Papahānaumokuākea Native Hawaiian Cultural Working Group
 - Maui Ocean Center Marine Institute (MOCMI)
 - Hawaiʻi Marine Animal Response (HMAR)
-- Mālama i nā Honu
 - Hawaiʻi Island Hawksbill Project
+- Hawaiʻi Wildlife Fund
+- Mālama i nā Honu
+
 :::
 
 :::
