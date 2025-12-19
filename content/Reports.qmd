@@ -11,12 +11,12 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Sea turtle surveys and satellite tracking in the Naval Defense Sea Area (Pearl Harbor), Oʻahu, Hawaiʻi, United States](https://repository.library.noaa.gov/view/noaa/66118)  
-<small>Alexander R. Gaos, Jan W. Staman, Summer L. Martin. NOAA Technical Report 2024</small>
+<small>Alexander R. Gaos, Jan W. Staman, Summer L. Martin. NOAA Data Report 2024</small>
 :::
 
 ::: {.card}
 [2013–2023 final report: Sea turtle surveys and tracking in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/61493)  
-<small>Alexander R. Gaos, Summer L. Martin, Camryn Allen. NOAA Technical Report 2024</small>
+<small>Alexander R. Gaos, Summer L. Martin, Camryn Allen. NOAA Data Report 2024</small>
 :::
 
 ::: {.card}
@@ -31,7 +31,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Incorporating Uncertainty in Maturation and Latest Fishery Takes](/content/forms/noaamemorandum.pdf){target="_blank" rel="noopener"}  
-<small>Marine Turtle Biology and Assessment Program. NOAA Memorandum 2023</small>
+<small>Marine Turtle Biology and Assessment Program. NOAA Internal Report 2023</small>
 :::
 
 :::
@@ -41,7 +41,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/23886)  
-<small>Alexander R. Gaos, Summer L. Martin, T. Todd Jones. NOAA Technical Report 2020</small>
+<small>Alexander R. Gaos, Summer L. Martin, T. Todd Jones. NOAA Data Report 2020</small>
 :::
 
 ::: {.card}
@@ -56,7 +56,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Combined effects of U.S. Pacific Islands longline fisheries on endangered leatherback (western Pacific) and loggerhead (North Pacific) turtle populations](/content/forms/martin_etal_AUG2020.pdf){target="_blank" rel="noopener"}  
-<small>Summer Martin, Zachary Siders, Robert Ahrens, T. Todd Jones. NOAA Technical Memorandum. 2020</small>
+<small>Summer Martin, Zachary Siders, Robert Ahrens, T. Todd Jones. NOAA Internal Report. 2020</small>
 :::
 
 :::
@@ -66,7 +66,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/21448)  
-<small>Summer L. Martin, Alexander R. Gaos, T. Todd Jones. NOAA Technical Report 2019</small>
+<small>Summer L. Martin, Alexander R. Gaos, T. Todd Jones. NOAA Data Report 2019</small>
 :::
 
 :::
@@ -76,7 +76,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/17281)  
-<small>Summer L. Martin, T. Todd Jones, Alexander R. Gaos. NOAA Technical Report 2018</small>
+<small>Summer L. Martin, T. Todd Jones, Alexander R. Gaos. NOAA Data Report 2018</small>
 :::
 
 :::
@@ -86,12 +86,12 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Marine turtle surveys and captures in the Mariana Islands](https://repository.library.noaa.gov/view/noaa/18742)  
-<small>Summer L. Martin, T. Todd Jones. NOAA Technical Report 2017</small>
+<small>Summer L. Martin, T. Todd Jones. NOAA Mission Report 2017</small>
 :::
 
 ::: {.card}
 [Sea turtle tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/15114)  
-<small>Summer L. Martin, T. Todd Jones. NOAA Technical Report 2017</small>
+<small>Summer L. Martin, T. Todd Jones. NOAA Data Report 2017</small>
 :::
 
 :::
@@ -101,7 +101,7 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Sea turtle tagging in the Mariana Islands Range Complex (MIRC) progress report](https://repository.library.noaa.gov/view/noaa/12714)  
-<small>T. Todd Jones, Summer L. Martin, Kyle S. Van Houtan. NOAA Technical Report 2015</small>
+<small>T. Todd Jones, Summer L. Martin, Kyle S. Van Houtan. NOAA Data Report 2015</small>
 :::
 
 :::
