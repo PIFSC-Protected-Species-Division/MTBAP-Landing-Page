@@ -5,16 +5,6 @@ format: html
 
 Technical reports produced by MTBAP and partner agencies documenting field surveys, tagging programs, and conservation assessments. [NOAA Institutional Repository](https://repository.library.noaa.gov/)
 
-## 2025
-::: {.grid}
-
-::: {.card}
-[Incorporating Uncertainty in Maturation and Latest Fishery Takes](/content/forms/noaamemorandum.pdf){target="_blank" rel="noopener"}  
-<small>Marine Turtle Biology and Assessment Program. NOAA Memorandum 2025</small>
-:::
-
-:::
-
 ## 2024
 ::: {.grid}
 
@@ -35,6 +25,16 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 :::
 
+## 2023
+::: {.grid}
+
+::: {.card}
+[Incorporating Uncertainty in Maturation and Latest Fishery Takes](/content/forms/noaamemorandum.pdf){target="_blank" rel="noopener"}  
+<small>Marine Turtle Biology and Assessment Program. NOAA Memorandum 2023</small>
+:::
+
+:::
+
 ## 2020
 ::: {.grid}
 
@@ -45,12 +45,17 @@ Technical reports produced by MTBAP and partner agencies documenting field surve
 
 ::: {.card}
 [Update to assessing the population-level impacts of North Pacific loggerhead and western Pacific leatherback turtle interactions, including the Hawaiʻi-based deep-set and American Samoa-based longline fisheries](https://repository.library.noaa.gov/view/noaa/24251)  
-<small>Summer L. Martin, Zachary Siders, Tomoharu Eguchi. NOAA Technical Report 2020</small>
+<small>Summer L. Martin, Zachary Siders, Tomoharu Eguchi, Brian Langseth, Annie Yau, Jason Baker, Robert Ahrens, T. Todd Jones. NOAA Technical Memorandum 2020</small>
 :::
 
 ::: {.card}
-[Sea turtle tagging in the Naval Base Guam Area](https://repository.library.noaa.gov/view/noaa/33294)  
-<small>Alexander R. Gaos, Summer L. Martin, T. Todd Jones. NOAA Technical Report 2020</small>
+[Assessing the population level impacts of North Pacific Loggerhead and western Pacific Leatherback interactions in the Hawaii-based shallow set longline fishery](https://repository.library.noaa.gov/view/noaa/23037)  
+<small>Summer L. Martin, Zachary Siders, Tomoharu Eguchi, Brian J. Langseth, Annie Yau, Jason Daniel Baker, Robert Ahrens, T. Todd Jones. NOAA Technical Memorandum NMFS-PIFSC-95 2020</small>
+:::
+
+::: {.card}
+[Update to assessing the population-level impacts of North Pacific loggerhead and western Pacific leatherback turtle interactions, including the Hawaiʻi-based deep-set and American Samoa-based longline fisheries](https://repository.library.noaa.gov/view/noaa/24251)  
+<small>Summer L. Martin, Zachary Siders, Tomoharu Eguchi, Brian J. Langseth, Annie Yau, Jason Daniel Baker, Robert Ahrens, T. Todd Jones. NOAA Technical Memorandum 2020</small>
 :::
 
 :::
