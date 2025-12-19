@@ -3,66 +3,57 @@ title: "Onboarding"
 format: html
 ---
 
-# Welcome  
+# Welcome
 
-Welcome to the Marine Turtle Biology and Assessment Program!  
+Welcome to the Marine Turtle Biology and Assessment Program!\
 We're excited to have you join us. This page will help you get oriented. *NOAA Access Only*
 
----
+------------------------------------------------------------------------
 
-# First Week Checklist  
+# First Week Checklist
 
-1. [Print the Orientation Checklist](/content/forms/OrientationChecklist.pdf)  
-   - This will guide you through meeting the team, touring the IRC, and completing required trainings.  
+1.  [Print the Orientation Checklist](/content/forms/OrientationChecklist.pdf)
+    -   This will guide you through meeting the team, touring the IRC, and completing required trainings.
+2.  Read [SOP 35-4 Safety Orientation](/content/forms/SafetyOrientation.pdf)
+    -   Covers workplace safety protocols.
+3.  Review [Cyber Security Responsibilities](https://sites.google.com/noaa.gov/pifsc-intranet/operations-management-and-information-division/its-branch/information-technology-services-its/responsibilities)
+    -   Outlines NOAA data security policies.
+4.  If you require lab access, complete the [Laboratory User Agreement](/content/forms/LaboratoryUserAgreement.pdf).
+    -   Further instructions can be found on [our Google site](https://sites.google.com/noaa.gov/pifsc-labs).\
+    -   After completing these items, schedule a lab orientation walk-through with Kerry Reardon or Justin Weeks.\
+    -   Be sure to also complete the additional Formaldehyde Training, as this chemical is commonly used in our work.
+5.  Many roles require driving government vehicles. To be eligible:
+    -   Complete the NOAA Defensive Driver Training on the [Commerce Learning Center](https://doc.csodfed.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1).\
+    -   After training, fill out the [Safety Acknowledgment Form](/content/forms/SafetyAcknowledgement.pdf) and the [Statement of Understanding](/content/forms/StatementOfUnderstanding.pdf).\
+    -   Bring these forms along with your training certificate, driver’s license, and CAC to Tanya Ochoa to be added to the system.
+6.  You may need software such as RStudio, GitHub, ArcGIS, or ACDSee.
+    -   To install these, submit a ticket through the [Jira Service Desk](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/4/user/login?destination=portal%2F4%2FPIFSC-2334%3Fsda_source%3Dnotification-email).
 
-2. Read [SOP 35-4 Safety Orientation](/content/forms/SafetyOrientation.pdf)  
-   - Covers workplace safety protocols.  
+------------------------------------------------------------------------
 
-3. Review [Cyber Security Responsibilities](https://sites.google.com/noaa.gov/pifsc-intranet/operations-management-and-information-division/its-branch/information-technology-services-its/responsibilities)  
-   - Outlines NOAA data security policies.  
+# Important Contacts
 
-4. If you require lab access, complete the [Laboratory User Agreement](/content/forms/LaboratoryUserAgreement.pdf).  
-   - Further instructions can be found on [our Google site](https://sites.google.com/noaa.gov/pifsc-labs).  
-   - After completing these items, schedule a lab orientation walk-through with Kerry Reardon or Justin Weeks.  
-   - Be sure to also complete the additional Formaldehyde Training, as this chemical is commonly used in our work.  
-
-5. Many roles require driving government vehicles. To be eligible:  
-   - Complete the NOAA Defensive Driver Training on the [Commerce Learning Center](https://doc.csodfed.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1).  
-   - After training, fill out the [Safety Acknowledgment Form](/content/forms/SafetyAcknowledgement.pdf) and the [Statement of Understanding](/content/forms/StatementOfUnderstanding.pdf).  
-   - Bring these forms along with your training certificate, driver’s license, and CAC to Tanya Ochoa to be added to the system.  
-
-6. You may need software such as RStudio, GitHub, ArcGIS, or ACDSee.  
-   - To install these, submit a ticket through the [Jira Service Desk](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/4/user/login?destination=portal%2F4%2FPIFSC-2334%3Fsda_source%3Dnotification-email).  
-
----
-
-# Important Contacts  
-
-## Marine Turtle Biology and Assessment Program (MTBAP)  
+## Marine Turtle Biology and Assessment Program (MTBAP)
 
 | Name | Email | Phone |
-|------|-------|-------|
-| Summer Martin | <summer.martin@noaa.gov> | 909-228-8735 |
-| Shawn Murakawa | <shawn.murakawa@noaa.gov> | 808-220-5561 |
-| Camryn Allen | <camryn.allen@noaa.gov> | 619-787-0185 |
-| Marylou Staman | <marylou.staman@noaa.gov> | 808-688-6176 |
-| Alex Gaos | <alexander.gaos@noaa.gov> | 808-979-4031 |
-| Jan-Willem Staman | <jan.staman@noaa.gov> | 808-699-0737 |
+|----|----|----|
+| Summer Martin | [summer.martin\@noaa.gov](mailto:summer.martin@noaa.gov){.email} | 909-228-8735 |
+| Shawn Murakawa | [shawn.murakawa\@noaa.gov](mailto:shawn.murakawa@noaa.gov){.email} | 808-220-5561 |
+| Camryn Allen | [camryn.allen\@noaa.gov](mailto:camryn.allen@noaa.gov){.email} | 619-787-0185 |
+| Marylou Staman | [marylou.staman\@noaa.gov](mailto:marylou.staman@noaa.gov){.email} | 808-688-6176 |
+| Alex Gaos | [alexander.gaos\@noaa.gov](mailto:alexander.gaos@noaa.gov){.email} | 808-979-4031 |
+| Jan-Willem Staman | [jan.staman\@noaa.gov](mailto:jan.staman@noaa.gov){.email} | 808-699-0737 |
 
-## Protected Species Support Program (PSSP)  
-
-| Name | Email | Phone |
-|------|-------|-------|
-| Hope Ronco | <hope.ronco@noaa.gov> | 919-423-4972 |
-| Claudia Cedillo | <claudia.cedillo@noaa.gov> | 210-421-5956 |
-| Rob McLean | <robert.mclean@noaa.gov> | 813-362-3528 |
-
-## Hawaiian Monk Seal Research Program (HMSRP)  
+## Protected Species Support Program (PSSP)
 
 | Name | Email | Phone |
-|------|-------|-------|
-| Christy Kozama | <christy.kozama@noaa.gov> | 808-359-3738 |
+|----|----|----|
+| Hope Ronco | [hope.ronco\@noaa.gov](mailto:hope.ronco@noaa.gov){.email} | 919-423-4972 |
+| Claudia Cedillo | [claudia.cedillo\@noaa.gov](mailto:claudia.cedillo@noaa.gov){.email} | 210-421-5956 |
+| Rob McLean | [robert.mclean\@noaa.gov](mailto:robert.mclean@noaa.gov){.email} | 813-362-3528 |
 
+## Hawaiian Monk Seal Research Program (HMSRP)
 
-
-
+| Name | Email | Phone |
+|----|----|----|
+| Christy Kozama | [christy.kozama\@noaa.gov](mailto:christy.kozama@noaa.gov){.email} | 808-359-3738 |
