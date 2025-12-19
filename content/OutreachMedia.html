@@ -248,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.fisheries.noaa.gov/feature-story/meet-josefa-munoz-phd-student">Meet Josefa Muñoz, Ph.D.&nbsp;Student</a></p>
 </div>
 <div class="card">
-<p><a href="https://conservationcompass.org/career-spotlights/shelbie-ishimaru/" target="_blank" rel="noopener">Career Spotlight: Shelbie Ishimaru</a></p>
+<p><a href="https://conservationcompass.org/career-spotlights/shelbie-ishimaru/">Career Spotlight: Shelbie Ishimaru</a></p>
 </div>
 </div>
 </section>
@@ -314,6 +314,15 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+    const isExternal = !link.href.includes(window.location.hostname);
+    if (isExternal) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+});
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
