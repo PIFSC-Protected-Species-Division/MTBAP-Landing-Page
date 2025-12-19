@@ -34,7 +34,7 @@ Outreach and media features highlighting our conservation work, public engagemen
 :::
 
 ::: {.card}
-[Career Spotlight: Shelbie Ishimaru](https://conservationcompass.org/career-spotlights/shelbie-ishimaru/){target="_blank" rel="noopener"}
+[Career Spotlight: Shelbie Ishimaru](https://conservationcompass.org/career-spotlights/shelbie-ishimaru/)
 :::
 
 :::
