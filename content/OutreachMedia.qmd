@@ -33,6 +33,10 @@ Outreach and media features highlighting our conservation work, public engagemen
 [Meet Josefa Muñoz, Ph.D. Student](https://www.fisheries.noaa.gov/feature-story/meet-josefa-munoz-phd-student)
 :::
 
+::: {.card}
+[Career Spotlight: Shelbie Ishimaru](https://conservationcompass.org/career-spotlights/shelbie-ishimaru/)
+:::
+
 :::
 
 ## 2023
@@ -103,4 +107,5 @@ Outreach and media features highlighting our conservation work, public engagemen
 :::
 
 :::
+
 

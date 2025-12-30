@@ -62,6 +62,9 @@ format:
   html:
     theme: cosmo
     css: content/styles.css
+    scripts:
+      - assets/js/external-links.js
+
 
 
 
