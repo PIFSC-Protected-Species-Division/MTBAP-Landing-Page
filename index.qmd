@@ -5,159 +5,166 @@ format: html
 
 # Who We Are
 
-<div style="float: right; width: 30%; margin-left: 20px; text-align: center;">
+::: {style="float: right; width: 36%; margin-left: 20px; text-align: center;"}
+![](content/images/species.png){style="max-height: 720px;"}
 
-![](content/images/jurisdiction.png)
+<p class="image-caption">
 
-<p class="image-caption">MTBAP Area of Research</p>
+Sea Turtles Studied by MTBAP
 
-</div>
+</p>
+:::
 
-The Marine Turtle Biology and Assessment Program (MTBAP) conducts research throughout the Pacific Ocean to support the conservation and management of threatened and endangered sea turtle populations.  
+The Marine Turtle Biology and Assessment Program (MTBAP) conducts research throughout the Pacific Ocean to support the conservation and management of threatened and endangered sea turtle populations.
 
-We study sea turtle species that live in the North Pacific Ocean during one or more life stages, from hatchling to adult. This includes green, loggerhead, olive ridley, leatherback, and hawksbill turtles, all protected under the U.S. Endangered Species Act.  
+We study sea turtle species that live in the North Pacific Ocean during one or more life stages, from hatchling to adult. This includes green, loggerhead, olive ridley, leatherback, and hawksbill turtles, all protected under the U.S. Endangered Species Act.
 
-Our work is guided by species-specific recovery plans and conducted in collaboration with the U.S. Fish and Wildlife Service, other agencies, and community partners. The knowledge we generate informs management decisions and drives conservation actions across the Pacific Islands Region.  
+Our work is guided by species-specific recovery plans and conducted in collaboration with the U.S. Fish and Wildlife Service, other agencies, and community partners. The knowledge we generate informs management decisions and drives conservation actions across the Pacific Islands Region.
 
----
+------------------------------------------------------------------------
 
 # What We Do
 
-Our primary goal is to understand, assess, and monitor sea turtle populations in the Pacific to support management needs and recovery goals mandated by the Endangered Species Act and other federal statutes.  
+Our primary goal is to understand, assess, and monitor sea turtle populations in the Pacific to support management needs and recovery goals mandated by the Endangered Species Act and other federal statutes.
 
-We achieve this by:  
+We achieve this by:
 
-- Conducting field and laboratory research to investigate sea turtle health, ecology, and life history  
-- Designing geospatial models that integrate population, ecological, satellite, and climate data  
-- Providing data streams, research infrastructure, and scientific leadership across the Pacific  
+-   Conducting field and laboratory research to investigate sea turtle health, ecology, and life history\
+-   Designing geospatial models that integrate population, ecological, satellite, and climate data\
+-   Providing data streams, research infrastructure, and scientific leadership across the Pacific
 
----
+------------------------------------------------------------------------
 
 # Areas of Research
 
-Our projects focus on the biological health, ecology, and threats to sea turtle populations, including:  
+::: {style="float: right; width: 30%; margin-left: 20px; text-align: center;"}
+![](content/images/jurisdiction.png)
 
-- Population abundance estimates across Hawaiʻi, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and other U.S. Pacific Territories  
-- Climate change effects on sea turtle populations and their habitats  
-- Movement patterns and habitat use  
-- Fisheries impacts and bycatch reduction  
-- Health consequences of tumor-forming diseases such as fibropapillomatosis  
-- Physiology and resource requirements  
-- Nesting and foraging ecology  
-- Threat assessments across life stages  
+<p class="image-caption">
 
----
+MTBAP Area of Research
 
-# Success Story: Green Turtles in Hawaiʻi
+</p>
+:::
 
-<div style="float: right; width: 36%; margin-left: 20px; text-align: center;">
+Our projects focus on the biological health, ecology, and threats to sea turtle populations, including:
 
-![](content/images/species.png){style="max-height: 720px;"}
+-   Population abundance estimates across Hawaiʻi, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and other U.S. Pacific Territories\
+-   Climate change effects on sea turtle populations and their habitats\
+-   Movement patterns and habitat use\
+-   Fisheries impacts and bycatch reduction\
+-   Health consequences of tumor-forming diseases such as fibropapillomatosis\
+-   Physiology and resource requirements\
+-   Nesting and foraging ecology\
+-   Threat assessments across life stages
 
-<p class="image-caption">Sea Turtles Studied by MTBAP</p>
+------------------------------------------------------------------------
 
-</div>
+# Tentatively Optimistic: Green Turtles in Hawaiʻi
 
-One of the clearest examples of conservation impact is the recovery of the green turtle, or honu, in Hawaiʻi.  
+One of the MTBAP's flagship projects and a great example of conservation impact is the recovery of the green turtle, or honu, in Hawaiʻi.
 
-When our studies began in the 1970s, green turtle populations were severely depleted. Today, thanks to decades of conservation regulations and informed management, our monitoring data shows that Hawaiʻi’s honu are steadily rebounding and are now commonly seen in coastal waters.  
+When honu research began in the 1970s, green turtle populations were severely depleted. Today, thanks to decades of conservation regulations and informed management, our monitoring data shows that Hawaiʻi’s honu population has been increasing in the number of nesting females. However, their low-lying nesting grounds in Papahānaumokuākea Marine National Monument and their reliance on certain temperatures for egg development make them especially vulnerable to the effects of climate change.
 
----
+While recently getting attention in the media for being "delisted", the global (and local!) conservation status of green turtles is complex and still evolving. Read on for more information:
+
+Two primary entities assess sea turtle extinction risks: the [IUCN](https://www.iucnredlist.org/){.external target="_blank"} (International Union for Conservation of Nature) via the Red List, and NOAA Fisheries/USFWS under the U.S. Endangered Species Act (ESA). The Hawaiian green sea turtle is recognized as a unique biological unit—specifically the Central North Pacific Regional Management Unit (IUCN) and the Central North Pacific Distinct Population Segment (ESA). Currently, its status is ["Least Concern" per the IUCN](https://www.iucnredlist.org/species/16285718/142098300){.external target="_blank"}, yet ["Threatened" under the ESA](https://repository.library.noaa.gov/view/noaa/4922){.external target="_blank"}.
+
+Notably, while the [**global** IUCN assessment for green sea turtles](https://www.iucnredlist.org/species/4615/285108125#assessment-information){.external target="_blank"} was recently downgraded to "Least Concern," the status of green turtles under the U.S. ESA has not changed. The most current findings on the Hawaiian green sea turtle population were recently published by the [IUCN Marine Turtle Specialist Group](https://www.iucn-mtsg.org/){.external target="_blank"} ([Wallace et al. 2025)](https://www.int-res.com/abstracts/esr/v56/p247-276){.external target="_blank"}, which indicate a heightened risk of decline and an increased threat score since the previous analysis done by [Wallace et al. in 2011](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0024510&type=printable){.external target="_blank"}. (see snapshot below from the [CPP Dashboard](https://www.seaturtlestatus.org/cpp-dashboard){.external target="_blank"}).
+
+Stayed tuned for an updated map of sea turtle nesting in the Pacific Islands, coming in the next issue of [The State of the Worlds Sea Turtles](https://www.seaturtlestatus.org/){.external target="_blank"} (SWOT Report, vol. 21).
+
+![](content/images/green%20turtle%20risks%20IUCN%20cropped.png){width="685"}
+
+------------------------------------------------------------------------
 
 # Rescue and Rehabilitation
 
-Since 1990, our team has worked with non-profit, community, and educational partners to rescue, rehabilitate, and release over 1,000 turtles throughout the Hawaiian Islands.  
+Since 1990, our team has worked with non-profit, community, and educational partners to rescue, rehabilitate, and release over 1,000 turtles throughout the Hawaiian Islands.
 
-The most common causes of stranding are:  
+The most common causes of stranding are:
 
-- Fibropapillomatosis (tumor-forming disease)  
-- Fisheries interactions (entanglement in fishing line or nets)  
-- Injuries from boat strikes or shark attacks  
+-   Fibropapillomatosis (tumor-forming disease)\
+-   Fisheries interactions (entanglement in fishing line or nets)\
+-   Injuries from boat strikes or shark attacks
 
-Through rescue efforts, we not only save individual turtles but also collect valuable data on the threats affecting sea turtle populations.  
+Through rescue efforts, we not only save individual turtles but also collect valuable data on the threats affecting sea turtle populations.
 
----
+------------------------------------------------------------------------
 
 # Partnerships
 
 Partnerships are a fundamental component of our work and essential to the success of sea turtle research throughout the Pacific.
 
-::: {.grid .partners-grid}
-
-::: {.card}
+:::::::: {.grid .partners-grid}
+::: card
 ### Federal & NOAA
-- Pacific Islands Regional Office (PIRO)
-- U.S. Fish and Wildlife Service (USFWS)
-- U.S. Geological Survey (USGS)
+
+-   Pacific Islands Regional Office (PIRO)
+-   U.S. Fish and Wildlife Service (USFWS)
+-   U.S. Geological Survey (USGS)
 :::
 
-::: {.card}
+::: card
 ### State and Territorial
-- CNMI Division of Aquatic Resources (DAR)
-- Guam Department of Agriculture, Division of Aquatic & Wildlife Resources (DAWR)
-- CNMI Department of Lands and Natural Resources (DLNR)
-- Guam Port Police
-- Papahānaumokuākea Marine National Monument Monument Management Board (PMNM MMB)
-- Office of Hawaiian Affairs (OHA)
-- American Samoa Department of Marine and Wildlife Resources (DMWR)
+
+-   CNMI Division of Aquatic Resources (DAR)
+-   Guam Department of Agriculture, Division of Aquatic & Wildlife Resources (DAWR)
+-   CNMI Department of Lands and Natural Resources (DLNR)
+-   Guam Port Police
+-   Papahānaumokuākea Marine National Monument Monument Management Board (PMNM MMB)
+-   Office of Hawaiian Affairs (OHA)
+-   American Samoa Department of Marine and Wildlife Resources (DMWR)
 :::
 
-::: {.card}
+::: card
 ### Department of Defense
-- NAVFAC Marianas
-- NAVFAC Hawaiʻi
-- Naval Base Guam
-- Joint Base Pearl Harbor Hickam
-- Marine Corps Base Hawaiʻi
-- Andersen Airforce Base
+
+-   NAVFAC Marianas
+-   NAVFAC Hawaiʻi
+-   Naval Base Guam
+-   Joint Base Pearl Harbor Hickam
+-   Marine Corps Base Hawaiʻi
+-   Andersen Airforce Base
 :::
 
-::: {.card}
+::: card
 ### Educational Institutions
-- The University of the South Pacific
-- University of Hawaiʻi (CIMAR)
-- University of Guam
-- Hawaiʻi Pacific University
-- Hawaiʻi Preparatory Academy
-- University of Florida
-- University of Massachusetts Amherst
+
+-   The University of the South Pacific
+-   University of Hawaiʻi (CIMAR)
+-   University of Guam
+-   Hawaiʻi Pacific University
+-   Hawaiʻi Preparatory Academy
+-   University of Florida
+-   University of Massachusetts Amherst
 :::
 
-::: {.card}
+::: card
 ### Non-Profit & Community
-- Papahānaumokuākea Native Hawaiian Cultural Working Group
-- Maui Ocean Center Marine Institute (MOCMI)
-- Hawaiʻi Marine Animal Response (HMAR)
-- Hawaiʻi Island Hawksbill Project
-- Hawaiʻi Wildlife Fund
-- Mālama i nā Honu
 
+-   Papahānaumokuākea Native Hawaiian Cultural Working Group
+-   Maui Ocean Center Marine Institute (MOCMI)
+-   Hawaiʻi Marine Animal Response (HMAR)
+-   Hawaiʻi Island Hawksbill Project
+-   Hawaiʻi Wildlife Fund
+-   Mālama i nā Honu
 :::
+::::::::
 
-:::
-
----
+------------------------------------------------------------------------
 
 # By the Numbers
 
-::: {.callout-note}
-- **5 sea turtle species studied** in the North Pacific  
-- **50+ years** of long-term monitoring  
-- **1,000+ turtles rescued and rehabilitated**  
-- Research conducted across **Hawaiʻi, Guam, CNMI, American Samoa, and other U.S. Pacific Islands**
+::: callout-note
+-   **5 sea turtle species studied** in the North Pacific\
+-   **50+ years** of long-term monitoring\
+-   **1,000+ turtles rescued and rehabilitated**\
+-   Research conducted across **Hawaiʻi, Guam, CNMI, American Samoa, and other U.S. Pacific Islands**
 :::
 
----
+------------------------------------------------------------------------
 
 # Why It Matters
 
 By studying population dynamics, evaluating threats, and supporting rehabilitation, MTBAP ensures that sea turtles continue to thrive as an ecological, cultural, and spiritual treasure for generations to come.
-
-
-
-
-
-
-
-
-
